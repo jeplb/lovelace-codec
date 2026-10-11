@@ -1,0 +1,91 @@
+strand,codec,format,address_length_bits,strand_limit_nt,packet_bytes,payload_class,payload_hex,sequence_nt,analytical_maximum_nt,length_verified,address_word_verified
+lovelace_generic_L200_a8_zero_0,lovelace,proposed representation allocation,8,200,1,zero,00,178,178,True,True
+lovelace_generic_L200_a8_zero_15,lovelace,proposed representation allocation,8,200,1,zero,00,178,178,True,True
+lovelace_generic_L200_a8_maximal_0,lovelace,proposed representation allocation,8,200,1,maximal,ff,178,178,True,True
+lovelace_generic_L200_a8_maximal_15,lovelace,proposed representation allocation,8,200,1,maximal,ff,178,178,True,True
+lovelace_generic_L200_a8_independent_binary_0,lovelace,proposed representation allocation,8,200,1,independent binary,8b,178,178,True,True
+lovelace_generic_L200_a8_independent_binary_15,lovelace,proposed representation allocation,8,200,1,independent binary,8b,178,178,True,True
+lovelace_generic_L200_a12_zero_0,lovelace,proposed representation allocation,12,200,1,zero,00,198,198,True,True
+lovelace_generic_L200_a12_zero_127,lovelace,proposed representation allocation,12,200,1,zero,00,198,198,True,True
+lovelace_generic_L200_a12_maximal_0,lovelace,proposed representation allocation,12,200,1,maximal,ff,198,198,True,True
+lovelace_generic_L200_a12_maximal_127,lovelace,proposed representation allocation,12,200,1,maximal,ff,198,198,True,True
+lovelace_generic_L200_a12_independent_binary_0,lovelace,proposed representation allocation,12,200,1,independent binary,c0,198,198,True,True
+lovelace_generic_L200_a12_independent_binary_127,lovelace,proposed representation allocation,12,200,1,independent binary,c0,198,198,True,True
+lovelace_generic_L250_a8_zero_0,lovelace,proposed representation allocation,8,250,1,zero,00,178,178,True,True
+lovelace_generic_L250_a8_zero_15,lovelace,proposed representation allocation,8,250,1,zero,00,178,178,True,True
+lovelace_generic_L250_a8_maximal_0,lovelace,proposed representation allocation,8,250,1,maximal,ff,178,178,True,True
+lovelace_generic_L250_a8_maximal_15,lovelace,proposed representation allocation,8,250,1,maximal,ff,178,178,True,True
+lovelace_generic_L250_a8_independent_binary_0,lovelace,proposed representation allocation,8,250,1,independent binary,bb,178,178,True,True
+lovelace_generic_L250_a8_independent_binary_15,lovelace,proposed representation allocation,8,250,1,independent binary,bb,178,178,True,True
+lovelace_generic_L250_a12_zero_0,lovelace,proposed representation allocation,12,250,1,zero,00,198,198,True,True
+lovelace_generic_L250_a12_zero_127,lovelace,proposed representation allocation,12,250,1,zero,00,198,198,True,True
+lovelace_generic_L250_a12_maximal_0,lovelace,proposed representation allocation,12,250,1,maximal,ff,198,198,True,True
+lovelace_generic_L250_a12_maximal_127,lovelace,proposed representation allocation,12,250,1,maximal,ff,198,198,True,True
+lovelace_generic_L250_a12_independent_binary_0,lovelace,proposed representation allocation,12,250,1,independent binary,50,198,198,True,True
+lovelace_generic_L250_a12_independent_binary_127,lovelace,proposed representation allocation,12,250,1,independent binary,50,198,198,True,True
+lovelace_generic_L250_a16_zero_0,lovelace,proposed representation allocation,16,250,1,zero,00,218,218,True,True
+lovelace_generic_L250_a16_zero_127,lovelace,proposed representation allocation,16,250,1,zero,00,218,218,True,True
+lovelace_generic_L250_a16_maximal_0,lovelace,proposed representation allocation,16,250,1,maximal,ff,218,218,True,True
+lovelace_generic_L250_a16_maximal_127,lovelace,proposed representation allocation,16,250,1,maximal,ff,218,218,True,True
+lovelace_generic_L250_a16_independent_binary_0,lovelace,proposed representation allocation,16,250,1,independent binary,04,218,218,True,True
+lovelace_generic_L250_a16_independent_binary_127,lovelace,proposed representation allocation,16,250,1,independent binary,04,218,218,True,True
+lovelace_generic_L250_a18_zero_0,lovelace,proposed representation allocation,18,250,1,zero,00,228,228,True,True
+lovelace_generic_L250_a18_zero_127,lovelace,proposed representation allocation,18,250,1,zero,00,228,228,True,True
+lovelace_generic_L250_a18_maximal_0,lovelace,proposed representation allocation,18,250,1,maximal,ff,228,228,True,True
+lovelace_generic_L250_a18_maximal_127,lovelace,proposed representation allocation,18,250,1,maximal,ff,228,228,True,True
+lovelace_generic_L250_a18_independent_binary_0,lovelace,proposed representation allocation,18,250,1,independent binary,99,228,228,True,True
+lovelace_generic_L250_a18_independent_binary_127,lovelace,proposed representation allocation,18,250,1,independent binary,99,228,228,True,True
+lovelace_generic_L250_a20_zero_0,lovelace,proposed representation allocation,20,250,1,zero,00,238,238,True,True
+lovelace_generic_L250_a20_zero_127,lovelace,proposed representation allocation,20,250,1,zero,00,238,238,True,True
+lovelace_generic_L250_a20_maximal_0,lovelace,proposed representation allocation,20,250,1,maximal,ff,238,238,True,True
+lovelace_generic_L250_a20_maximal_127,lovelace,proposed representation allocation,20,250,1,maximal,ff,238,238,True,True
+lovelace_generic_L250_a20_independent_binary_0,lovelace,proposed representation allocation,20,250,1,independent binary,5a,238,238,True,True
+lovelace_generic_L250_a20_independent_binary_127,lovelace,proposed representation allocation,20,250,1,independent binary,5a,238,238,True,True
+lovelace_generic_L300_a8_zero_0,lovelace,proposed representation allocation,8,300,2,zero,0000,258,258,True,True
+lovelace_generic_L300_a8_zero_15,lovelace,proposed representation allocation,8,300,2,zero,0000,258,258,True,True
+lovelace_generic_L300_a8_maximal_0,lovelace,proposed representation allocation,8,300,2,maximal,ffff,258,258,True,True
+lovelace_generic_L300_a8_maximal_15,lovelace,proposed representation allocation,8,300,2,maximal,ffff,258,258,True,True
+lovelace_generic_L300_a8_independent_binary_0,lovelace,proposed representation allocation,8,300,2,independent binary,c983,258,258,True,True
+lovelace_generic_L300_a8_independent_binary_15,lovelace,proposed representation allocation,8,300,2,independent binary,c983,258,258,True,True
+lovelace_generic_L300_a12_zero_0,lovelace,proposed representation allocation,12,300,2,zero,0000,278,278,True,True
+lovelace_generic_L300_a12_zero_127,lovelace,proposed representation allocation,12,300,2,zero,0000,278,278,True,True
+lovelace_generic_L300_a12_maximal_0,lovelace,proposed representation allocation,12,300,2,maximal,ffff,278,278,True,True
+lovelace_generic_L300_a12_maximal_127,lovelace,proposed representation allocation,12,300,2,maximal,ffff,278,278,True,True
+lovelace_generic_L300_a12_independent_binary_0,lovelace,proposed representation allocation,12,300,2,independent binary,9d3b,278,278,True,True
+lovelace_generic_L300_a12_independent_binary_127,lovelace,proposed representation allocation,12,300,2,independent binary,9d3b,278,278,True,True
+lovelace_generic_L300_a16_zero_0,lovelace,proposed representation allocation,16,300,2,zero,0000,298,298,True,True
+lovelace_generic_L300_a16_zero_127,lovelace,proposed representation allocation,16,300,2,zero,0000,298,298,True,True
+lovelace_generic_L300_a16_maximal_0,lovelace,proposed representation allocation,16,300,2,maximal,ffff,298,298,True,True
+lovelace_generic_L300_a16_maximal_127,lovelace,proposed representation allocation,16,300,2,maximal,ffff,298,298,True,True
+lovelace_generic_L300_a16_independent_binary_0,lovelace,proposed representation allocation,16,300,2,independent binary,eff4,298,298,True,True
+lovelace_generic_L300_a16_independent_binary_127,lovelace,proposed representation allocation,16,300,2,independent binary,eff4,298,298,True,True
+lovelace_generic_L300_a18_zero_0,lovelace,proposed representation allocation,18,300,1,zero,00,228,228,True,True
+lovelace_generic_L300_a18_zero_127,lovelace,proposed representation allocation,18,300,1,zero,00,228,228,True,True
+lovelace_generic_L300_a18_maximal_0,lovelace,proposed representation allocation,18,300,1,maximal,ff,228,228,True,True
+lovelace_generic_L300_a18_maximal_127,lovelace,proposed representation allocation,18,300,1,maximal,ff,228,228,True,True
+lovelace_generic_L300_a18_independent_binary_0,lovelace,proposed representation allocation,18,300,1,independent binary,a6,228,228,True,True
+lovelace_generic_L300_a18_independent_binary_127,lovelace,proposed representation allocation,18,300,1,independent binary,a6,228,228,True,True
+lovelace_generic_L300_a20_zero_0,lovelace,proposed representation allocation,20,300,1,zero,00,238,238,True,True
+lovelace_generic_L300_a20_zero_127,lovelace,proposed representation allocation,20,300,1,zero,00,238,238,True,True
+lovelace_generic_L300_a20_maximal_0,lovelace,proposed representation allocation,20,300,1,maximal,ff,238,238,True,True
+lovelace_generic_L300_a20_maximal_127,lovelace,proposed representation allocation,20,300,1,maximal,ff,238,238,True,True
+lovelace_generic_L300_a20_independent_binary_0,lovelace,proposed representation allocation,20,300,1,independent binary,27,238,238,True,True
+lovelace_generic_L300_a20_independent_binary_127,lovelace,proposed representation allocation,20,300,1,independent binary,27,238,238,True,True
+lovelace_generic_L300_a24_zero_0,lovelace,proposed representation allocation,24,300,1,zero,00,258,258,True,True
+lovelace_generic_L300_a24_zero_127,lovelace,proposed representation allocation,24,300,1,zero,00,258,258,True,True
+lovelace_generic_L300_a24_maximal_0,lovelace,proposed representation allocation,24,300,1,maximal,ff,258,258,True,True
+lovelace_generic_L300_a24_maximal_127,lovelace,proposed representation allocation,24,300,1,maximal,ff,258,258,True,True
+lovelace_generic_L300_a24_independent_binary_0,lovelace,proposed representation allocation,24,300,1,independent binary,bb,258,258,True,True
+lovelace_generic_L300_a24_independent_binary_127,lovelace,proposed representation allocation,24,300,1,independent binary,bb,258,258,True,True
+lovelace_generic_L300_a28_zero_0,lovelace,proposed representation allocation,28,300,1,zero,00,278,278,True,True
+lovelace_generic_L300_a28_zero_127,lovelace,proposed representation allocation,28,300,1,zero,00,278,278,True,True
+lovelace_generic_L300_a28_maximal_0,lovelace,proposed representation allocation,28,300,1,maximal,ff,278,278,True,True
+lovelace_generic_L300_a28_maximal_127,lovelace,proposed representation allocation,28,300,1,maximal,ff,278,278,True,True
+lovelace_generic_L300_a28_independent_binary_0,lovelace,proposed representation allocation,28,300,1,independent binary,14,278,278,True,True
+lovelace_generic_L300_a28_independent_binary_127,lovelace,proposed representation allocation,28,300,1,independent binary,14,278,278,True,True
+lovelace_generic_L300_a32_zero_0,lovelace,proposed representation allocation,32,300,1,zero,00,298,298,True,True
+lovelace_generic_L300_a32_zero_127,lovelace,proposed representation allocation,32,300,1,zero,00,298,298,True,True
+lovelace_generic_L300_a32_maximal_0,lovelace,proposed representation allocation,32,300,1,maximal,ff,298,298,True,True
+lovelace_generic_L300_a32_maximal_127,lovelace,proposed representation allocation,32,300,1,maximal,ff,298,298,True,True
+lovelace_generic_L300_a32_independent_binary_0,lovelace,proposed representation allocation,32,300,1,independent binary,46,298,298,True,True
+lovelace_generic_L300_a32_independent_binary_127,lovelace,proposed representation allocation,32,300,1,independent binary,46,298,298,True,True

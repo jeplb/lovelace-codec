@@ -1,0 +1,7 @@
+codec,population,arm,endpoint,correct,total,checksum_pass,header_exact,payload_exact
+lovelace,A,control,exact quantized stream recovery,0,1,False,False,False
+lovelace,B,control,exact quantized stream recovery,0,1,False,False,False
+lovelace,A,position,exact quantized stream recovery,0,1,False,False,False
+lovelace,B,position,exact quantized stream recovery,0,1,False,False,False
+lovelace,A,position_weighted,exact quantized stream recovery,0,1,False,False,False
+lovelace,B,position_weighted,exact quantized stream recovery,0,1,False,False,False

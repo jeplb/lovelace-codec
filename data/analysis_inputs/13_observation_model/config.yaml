@@ -1,0 +1,184 @@
+cohort: NEW_ABC_ONLY
+protocol_version: 2
+scale_gate:
+  p_gate: 0.99
+  s_min: 1.0e-12
+  finite_required: true
+  statistic: domain_event
+  threshold_bits_hex: 3d719799812dea11
+  maximum_finite_bits_hex: 7fefffffffffffff
+  accumulation_dtype: float64
+  accumulation_precision_bits: 53
+quantizer:
+  expression: clip(floor((x + 1) * 31.5 + 0.5), 0, 63)
+  real_tolerance: 1
+  real_equal_weight: 1.0
+  adjacent_weight: 0.01
+  imag_support:
+  - 62
+  - 63
+  - 64
+  imag_central_weight: 1.0
+  imag_edge_weight: 0.01
+  epsilon: 1.0e-06
+  dc_real_support:
+  - 31
+  - 32
+  dc_imag_support:
+  - 32
+  dc_allowed_weight: 1.0
+inference:
+  resolved_probability: 0.95
+  tie_tolerance: 0.0
+  unsupported_log_likelihood: 0.0
+  tie_break: lowest_label
+  scalar_read_support: all_three_cells
+  scale_posterior: product_of_selected_header_cell_probabilities
+  checksum_use: final_pass_fail_only
+validation:
+  scale_floor: 1.0e-12
+  scale_margin_factor: 10.0
+  image_domain: finite_float64_32_by_32_in_0_to_1
+  quantizer_random_count: 100000
+  quantizer_seed: 12001
+  boundary_offsets:
+  - 1.0e-09
+  - 1.0e-12
+  - 1.0e-15
+  support_candidates:
+  - 62
+  - 63
+  - 64
+  real_tolerance_candidates:
+  - 0
+  - 1
+  dc_real_candidates:
+  - 31
+  - 32
+  dc_imag_candidates:
+  - 32
+  selection_rule: exclude_violations_with_scale_margin_then_keep_declared_support
+execution:
+  data_decode_runs: 1
+  evaluation_runs: 1
+  observation_model_fit: fit_pilots_only
+  spectral_prior: false
+  mosaic_em: false
+  new_read_admission: false
+header_mask:
+  proven_bits:
+  - mean_sign
+  - mean_exponent_msb
+  - scale_sign
+  proof_source: public encoder operations and independent synthetic checks
+arms:
+- control
+- position
+- position_weighted
+section: 13
+protocol: three_arm_incremental_observation_model
+position_model:
+  lambda_grid:
+  - 1.0
+  - 10.0
+  - 100.0
+  - 1000.0
+  - infinity
+  support:
+    min_observations: 20
+    min_pilot_designs: 2
+    min_raw_parents: 10
+  selection_objective: heldout_run_log_likelihood
+  tie_order: infinity_then_larger_lambda
+  global_pseudocount_per_bin: 0.5
+weighting:
+  candidates:
+  - name: none
+    suffix_prior: 0.0
+    outlier_prior: 0.0
+  - name: weak
+    suffix_prior: 0.01
+    outlier_prior: 0.01
+  - name: moderate
+    suffix_prior: 0.1
+    outlier_prior: 0.1
+  alternative_state_prior:
+  - 0.25
+  - 0.25
+  - 0.25
+  - 0.25
+  boundaries_after_cells:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  boundary_prior: uniform_given_suffix
+  reference: other_raw_parents_same_address_unweighted_distribution_once
+  reference_prior: uniform_four_states
+  reference_sum: ordered_parent_group_prefix_plus_suffix_excluding_scored_parent
+  agreement_log_emission: logsumexp_s(log_reference_probability_s_plus_read_log_likelihood_s)
+  alternative_log_emission: logsumexp_s(read_log_likelihood_s)_minus_log_four
+  suffix_emission: agreement_before_boundary_alternative_from_boundary_onward
+  boundary_indexing: zero_based_cells_0_through_7_boundary_b_splits_before_cell_b
+  no_switch_prior: one_minus_suffix_prior_minus_outlier_prior
+  model_posterior: softmax_log_prior_plus_sum_of_assessable_emissions_excluding_target_cell
+  leave_cell_out: true
+  min_other_parents: 2
+  min_other_cells: 3
+  fallback_weight: 1.0
+  weight_map: posterior_no_switch_plus_boundaries_after_target
+  retained_models: no_switch_and_boundary_b_with_target_j_less_than_b
+  outlier_retained_weight: 0.0
+  endpoint_handling: clip_float64_probability_summation_roundoff_to_zero_one
+  none_candidate: exact_ones_and_unmodified_aggregation
+  fallback_rule: target_has_too_few_other_parents_or_too_few_assessable_other_cells
+  whole_read_outlier: alternative_at_all_assessable_cells
+  suffix_diagnostic_threshold: 0.5
+  diagnostic_candidate:
+    name: moderate
+    suffix_prior: 0.1
+    outlier_prior: 0.1
+  diagnostic_rule: full_read_sum_of_seven_suffix_posteriors_above_threshold_with_min_other_cells_assessable
+  diagnostic_use: descriptive_only_does_not_change_selection_or_weights
+  selection_objective: mean_multiclass_brier_all_fixed_heldout_cells
+  tie_order:
+  - none
+  - weak
+  - moderate
+  tie_tolerance: 0.0
+cross_validation:
+  group: pilot_identity_parent_connected_components
+  scheme: leave_one_connected_component_out
+  heldout_inventory: all_eight_cells_of_each_of_24_fit_pilots
+  outer_exclusion: heldout_identities_and_all_their_parents_from_model_estimation
+  inner_exclusion: all_views_of_scored_parent_from_recipient_reference
+  qc_excluded_from_fit: true
+aggregation:
+  prior: uniform_common_log_constant_omitted_for_exact_v2_parity
+  base_sum_order:
+  - A
+  - C
+  - T
+  unit_order: frozen_F_clean_order
+  renormalize_weights: false
+  donor_reassignment: false
+v2_config_sha256: f900edfd257444991f2e509cf873b4d1f2c44759cf8efde91ac8caab8b824c39
+admitted_inputs:
+  observations_sha256: a837ec4dfa32a3af09ec1f242cf9b1a414f3f356fd8af50f2ce94f5a4f696ca1
+  global_model_sha256: a5fd6e5740a3bf6f9132fb65a5db0c10bbd26933b8ccd159180dbcb349b31b1e
+training_inputs:
+- name: units
+  path: <external>/lovelace_resequence_ABC_v1/04_clean_channel/fit_pilot_units.tsv
+  sha256: 0890bf43374491e2cc6f23507c4d95863326ad99a31985ba18c93eed1e7c357e
+- name: measurements
+  path: <external>/lovelace_resequence_ABC_v1/04_clean_channel/clean_pilot_measurements.tsv
+  sha256: eddf91dc54e7f19665b5b9f189f516ae585aada909849d6a9cba909565b86feb
+- name: labels
+  path: <external>/lovelace_resequence_ABC_v1/04_clean_channel/training_labels.tsv
+  sha256: 403ac6a37d54e1a3c29d479318f5cf604675b11a5591b3a11ee736004e29dc09
+- name: parents
+  path: <external>/lovelace_resequence_ABC_v1/04_clean_channel/frozen_clean_training_parents.txt
+  sha256: ecdf5f5acfbafeba8db09d7da2e648569df1e3bc912ab3812742ea97b03e8578

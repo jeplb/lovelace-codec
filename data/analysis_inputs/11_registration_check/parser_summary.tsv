@@ -1,0 +1,50 @@
+key	type	value
+	dict	12
+cohort	str	NEW_ABC_ONLY
+raw_reads	int	66821
+unique_raw_parents	int	66766
+primer_edit_threshold	int	5
+address_edit_threshold	int	2
+address_sensitivity_thresholds	list	4
+address_sensitivity_thresholds.0	int	0
+address_sensitivity_thresholds.1	int	1
+address_sensitivity_thresholds.2	int	2
+address_sensitivity_thresholds.3	int	3
+reasons	dict	7
+reasons.resolved	int	50515
+reasons.primers_missing_or_out_of_order	int	3051
+reasons.address_tie	int	6959
+reasons.no_address_window	int	5436
+reasons.address_distance_above_threshold	int	708
+reasons.no_right_G_anchor_at_primer	int	121
+reasons.orientation_tie	int	31
+strict_units_compared	int	9059
+frozen_primer_threshold_comparison	dict	9
+frozen_primer_threshold_comparison.either_orientation_both_primers_within_five	int	63435
+frozen_primer_threshold_comparison.native_supported_and_both_primers_within_five	int	63424
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_1	int	15391
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_0	int	30545
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_2	int	9266
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_4	int	2703
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_3	int	3912
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_5	int	1607
+frozen_primer_threshold_comparison.native_supported_max_primer_edits_6	int	920
+strict_matches	dict	7
+strict_matches.independent_orientation_supported	int	8868
+strict_matches.orientation_match	int	8857
+strict_matches.independent_address_supported	int	8619
+strict_matches.identity_match	int	8570
+strict_matches.independent_payload_resolved	int	8619
+strict_matches.bounds_match	int	8546
+strict_matches.payload_runs_match	int	8546
+assumptions	list	9
+assumptions.0	str	both full primers aligned with edlib HW and at most five edits each
+assumptions.1	str	orientation chosen by minimum total primer edits, equal orientation scores rejected
+assumptions.2	str	unique nearest compressed manifest address with at most two edits
+assumptions.3	str	address windows of 13 to 19 compressed runs permit sensitivity through three edits
+assumptions.4	str	G delimiter may have any positive length
+assumptions.5	str	right G delimiter within five bases of fitted right primer, or two bases of overlap
+assumptions.6	str	payload anchors minimize compressed ACT8 edit distance, primer gap, then G length departure
+assumptions.7	str	equal endpoint scores at distinct coordinates rejected
+assumptions.8	str	all raw payload runs retained without forcing twenty four runs
+no_decoder_refit	bool	true

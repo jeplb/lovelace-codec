@@ -1,0 +1,41 @@
+image,arm,condition,probability,realizations,exact_quantized_stream,exact_stored_object,metadata_recovered,component_error_fraction_mean,image_rmse_mean,image_rmse_available
+image_A,uniform,packet dropout,0,20,20,20,20,0.0,0.0,20
+image_A,uniform,packet dropout,0.05,20,20,19,19,0.0,0.0,19
+image_A,uniform,packet dropout,0.1,20,14,14,17,0.008203125,0.0,14
+image_A,uniform,packet dropout,0.2,20,1,0,0,0.12060546875,,0
+image_A,uniform,packet dropout,0.4,20,0,0,0,0.4583984375,,0
+image_A,uniform,unknown erroneous packet,0,20,20,20,20,0.0,0.0,20
+image_A,uniform,unknown erroneous packet,0.05,20,18,9,9,0.00263671875,0.0,9
+image_A,uniform,unknown erroneous packet,0.1,20,1,1,1,0.05234375,0.0,1
+image_A,uniform,unknown erroneous packet,0.2,20,0,0,0,0.23134765625,,0
+image_A,uniform,unknown erroneous packet,0.4,20,0,0,0,0.445703125,,0
+image_A,unequal,packet dropout,0,20,20,20,20,0.0,0.0,20
+image_A,unequal,packet dropout,0.05,20,4,3,19,0.03359375,0.0,3
+image_A,unequal,packet dropout,0.1,20,0,0,17,0.1046875,,0
+image_A,unequal,packet dropout,0.2,20,0,0,0,0.2859375,,0
+image_A,unequal,packet dropout,0.4,20,0,0,0,0.75,,0
+image_A,unequal,unknown erroneous packet,0,20,20,20,20,0.0,0.0,20
+image_A,unequal,unknown erroneous packet,0.05,20,0,0,9,0.03388671875,0.016282117261432073,9
+image_A,unequal,unknown erroneous packet,0.1,20,0,0,1,0.103515625,0.022529343855148563,1
+image_A,unequal,unknown erroneous packet,0.2,20,0,0,0,0.37373046875,,0
+image_A,unequal,unknown erroneous packet,0.4,20,0,0,0,0.667578125,,0
+image_B,uniform,packet dropout,0,20,20,20,20,0.0,0.0,20
+image_B,uniform,packet dropout,0.05,20,20,19,19,0.0,0.0,19
+image_B,uniform,packet dropout,0.1,20,14,14,17,0.008203125,0.0,14
+image_B,uniform,packet dropout,0.2,20,1,0,0,0.12060546875,,0
+image_B,uniform,packet dropout,0.4,20,0,0,0,0.4583984375,,0
+image_B,uniform,unknown erroneous packet,0,20,20,20,20,0.0,0.0,20
+image_B,uniform,unknown erroneous packet,0.05,20,18,9,9,0.00263671875,0.0,9
+image_B,uniform,unknown erroneous packet,0.1,20,1,1,1,0.05234375,0.0,1
+image_B,uniform,unknown erroneous packet,0.2,20,0,0,0,0.23134765625,,0
+image_B,uniform,unknown erroneous packet,0.4,20,0,0,0,0.445703125,,0
+image_B,unequal,packet dropout,0,20,20,20,20,0.0,0.0,20
+image_B,unequal,packet dropout,0.05,20,4,3,19,0.03359375,0.0,3
+image_B,unequal,packet dropout,0.1,20,0,0,17,0.1046875,,0
+image_B,unequal,packet dropout,0.2,20,0,0,0,0.2859375,,0
+image_B,unequal,packet dropout,0.4,20,0,0,0,0.75,,0
+image_B,unequal,unknown erroneous packet,0,20,20,20,20,0.0,0.0,20
+image_B,unequal,unknown erroneous packet,0.05,20,0,0,9,0.03388671875,0.01470074323228832,9
+image_B,unequal,unknown erroneous packet,0.1,20,0,0,1,0.103515625,0.01914507433838151,1
+image_B,unequal,unknown erroneous packet,0.2,20,0,0,0,0.37373046875,,0
+image_B,unequal,unknown erroneous packet,0.4,20,0,0,0,0.667578125,,0

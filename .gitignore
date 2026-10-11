@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+data/raw/
+.DS_Store
+*.dylib
+*.so
+analysis/results/

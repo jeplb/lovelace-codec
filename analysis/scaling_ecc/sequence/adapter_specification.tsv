@@ -1,0 +1,50 @@
+key	type	value
+	dict	9
+byte_mapping	dict	1
+byte_mapping.lovelace	str	four 20-nt cells per byte
+cache	str	observed read sequences only, never true templates or named constants; identical observed reads pooled with exact multiplicity weights
+erasures	str	no assigned eligible reads, extraction failure, or exact tied aggregate symbol scores; any unresolved symbol erases its containing byte
+implementation	dict	9
+implementation.accelerated	str	accelerated.cpp identical compiled extraction and accelerated.py vectorized log-likelihood sum
+implementation.algorithm_changed	bool	false
+implementation.build	str	python -m analysis.scaling_ecc.sequence.accelerated
+implementation.compiler	str	Apple clang21.0.0 clang-2100.3.34.2
+implementation.fallback	str	when compiled library absent or unsupported width/address count, use the tested Python reference
+implementation.reference	str	codecs.py Python public extraction and weighted sequence pooling
+implementation.source_sha256	dict	3
+implementation.source_sha256.accelerated\.cpp	str	0d75c67dc4f3acddaa935d8e7000d14d27cef2c49c5270f00272581172b250a5
+implementation.source_sha256.accelerated\.py	str	4638da1e1795436b84a2e3a2d2a18722d8448ce0a4fc0273ba0c0b319d1da233
+implementation.source_sha256.codecs\.py	str	0caaa345957eb9516b53b57a9ee9e91cef90497a3336d97e91ce595ae72d2014
+implementation.target	str	arm64-apple-darwin27.0.0
+implementation.version	str	20261010.2
+lovelace	dict	10
+lovelace.address_run_nt	int	5
+lovelace.address_runs	int	16
+lovelace.cell_nt	int	20
+lovelace.constraint_gate	str	first_read_analysis/fourier_pair_inference_v1 rejected candidate quantized-code conjugacy constraints on independent valid inputs
+lovelace.digits_per_byte	int	4
+lovelace.inference	str	ordinary quantized-byte likelihoods; no conjugate constraints on parity or arbitrary binary bytes
+lovelace.packet_bytes	int	2
+lovelace.readout	str	strict ACT cell extraction and fixed embedded public central channel log-likelihood aggregation
+lovelace.states	list	4
+lovelace.states.0	list	3
+lovelace.states.0.0	int	3
+lovelace.states.0.1	int	7
+lovelace.states.0.2	int	10
+lovelace.states.1	list	3
+lovelace.states.1.0	int	3
+lovelace.states.1.1	int	10
+lovelace.states.1.2	int	7
+lovelace.states.2	list	3
+lovelace.states.2.0	int	7
+lovelace.states.2.1	int	3
+lovelace.states.2.2	int	10
+lovelace.states.3	list	3
+lovelace.states.3.0	int	7
+lovelace.states.3.1	int	10
+lovelace.states.3.2	int	3
+lovelace.strand_nt	int	298
+payload_inputs	str	sequence/payloads frozen byte and metadata snapshots verified against payload_source_manifest.tsv
+repetition_readout	str	public physical-address-to-logical-packet groups pool bit votes or fixed model log-likelihoods before final symbol and byte calls; group mapping uses the predeclared copy layout and no payload values
+status	str	public-format adapters verified without payload candidate templates
+truth_separation	str	decoding module never imports payloads module; scorer receives frozen byte output separately

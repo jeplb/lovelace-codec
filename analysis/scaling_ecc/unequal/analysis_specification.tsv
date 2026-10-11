@@ -1,0 +1,56 @@
+key	type	value
+	dict	17
+saved_before_run	bool	true
+source_objects	list	2
+source_objects.0	dict	3
+source_objects.0.name	str	image_A
+source_objects.0.payload_sha256	str	c916e48d9d8e14c1a81b12ef21e28dee700a9f4d184d7e91dca048425ed7c3c7
+source_objects.0.sources	list	2
+source_objects.0.sources.0	dict	2
+source_objects.0.sources.0.path	str	<external>/rewrite/results/lovelace_integration/inputs/codec/source/S12/image_0_payload.bin
+source_objects.0.sources.0.sha256	str	c916e48d9d8e14c1a81b12ef21e28dee700a9f4d184d7e91dca048425ed7c3c7
+source_objects.0.sources.1	dict	2
+source_objects.0.sources.1.path	str	<external>/rewrite/results/lovelace_integration/inputs/codec/source/S12/image_0_header.bin
+source_objects.0.sources.1.sha256	str	b210d1e940f6b071b34a288006039c6fe17a1ceef259a766ec23d1a5a5cd13af
+source_objects.1	dict	3
+source_objects.1.name	str	image_B
+source_objects.1.payload_sha256	str	4ef71825e317ed36e66f38b77bab3349f0a34cb5a0b91dfd617469e40150297e
+source_objects.1.sources	list	2
+source_objects.1.sources.0	dict	2
+source_objects.1.sources.0.path	str	<external>/rewrite/results/lovelace_integration/inputs/codec/source/S12/image_1_payload.bin
+source_objects.1.sources.0.sha256	str	4ef71825e317ed36e66f38b77bab3349f0a34cb5a0b91dfd617469e40150297e
+source_objects.1.sources.1	dict	2
+source_objects.1.sources.1.path	str	<external>/rewrite/results/lovelace_integration/inputs/codec/source/S12/image_1_header.bin
+source_objects.1.sources.1.sha256	str	ec153914b7ef5f7f3d763545754a6747629fe4b8b1cf5f13ea8f217f745bb9d8
+profile	dict	6
+profile.version	str	digitplanes-v1
+profile.digits	str	highest to lowest
+profile.allocation	dict	4
+profile.allocation.metadata	int	8
+profile.allocation.highest digit	int	16
+profile.allocation.middle digit	int	8
+profile.allocation.lowest digit	int	0
+profile.uniform_parity	int	8
+profile.packet_bytes	int	2
+profile.data_packets	int	32
+allocation_basis	str	numerical digit weights sixteen, four and one and required reconstruction metadata, before examining outcomes
+byte_symbol_order	str	plane bytes contain four two-bit digits in descending bit order
+metadata	str	complete protected outer header and JSON include native reconstruction header and digests
+packet_boundary	str	two bytes and thirty-two data packets per stripe, each significance plane is independently padded
+matched_budget	str	same data packet and parity packet counts, address count, per-strand length and padding as uniform r8
+initial_control	str	error-free sequence readout and exact outer recovery required before corruption
+experiment	str	outer-code packet test
+conditions	list	2
+conditions.0	str	packet dropout
+conditions.1	str	unknown erroneous packet
+probabilities	list	5
+probabilities.0	int	0
+probabilities.1	float	0.05
+probabilities.2	float	0.1
+probabilities.3	float	0.2
+probabilities.4	float	0.4
+realizations	int	20
+seed	int	12102026
+errors	str	both bytes in selected data or parity packet xor an independently uniform nonzero byte, no oracle erasure
+sequencing	str	same sixteen requested reads per designed strand, no molecular simulation claimed
+missing_metrics	str	missing components remain missing, image RMSE available only when the payload and decoded reconstruction metadata permit reconstruction

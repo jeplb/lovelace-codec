@@ -1,0 +1,9 @@
+key	type	value
+	dict	4
+selected_lambda	float	100.0
+selected_candidate	dict	3
+selected_candidate.name	str	moderate
+selected_candidate.suffix_prior	float	0.1
+selected_candidate.outlier_prior	float	0.1
+selected_name	str	moderate
+config_sha256	str	89b8f2fb41971f9e9bb137fbbb6123f25a2b643f9e83ab747e918b7405b726ab

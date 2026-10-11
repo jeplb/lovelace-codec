@@ -1,0 +1,16 @@
+codec,scenario,payload_bytes,packet_bytes,parity_packets_per_stripe,protected_file_metadata_bytes,required_strands,minimum_transmitted_address_bits,constructed_address_capacity,required_complete_strand_nt,total_designed_nt_worst_case,exceeds_200_nt,exceeds_250_nt,exceeds_300_nt,format,decoder_implemented_at_this_address_length,accounting_scenario
+lovelace,1 KiB,1024,2,0,58,544,15,1024,293,159392,True,True,False,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 KiB,1024,2,4,58,612,15,1024,293,179316,True,True,False,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 KiB,1024,2,8,58,680,15,1024,293,199240,True,True,False,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 KiB,1024,2,16,58,816,15,1024,293,239088,True,True,False,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 KiB,1024,2,24,58,952,15,1024,293,278936,True,True,False,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 MiB,1048576,2,0,58,524320,26,1048576,348,182463360,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 MiB,1048576,2,4,58,589860,26,1048576,348,205271280,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 MiB,1048576,2,8,58,655400,26,1048576,348,228079200,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 MiB,1048576,2,16,58,786480,26,1048576,348,273695040,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 MiB,1048576,2,24,58,917560,26,1048576,348,319310880,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 GiB,1073741824,2,0,58,536870944,37,1073741824,403,216358990432,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 GiB,1073741824,2,4,58,603979812,37,1073741824,403,243403864236,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 GiB,1073741824,2,8,58,671088680,37,1073741824,403,270448738040,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 GiB,1073741824,2,16,58,805306416,37,1073741824,403,324538485648,True,True,True,proposed fixed packet widths from executed adapters,False,True
+lovelace,1 GiB,1073741824,2,24,58,939524152,37,1073741824,403,378628233256,True,True,True,proposed fixed packet widths from executed adapters,False,True

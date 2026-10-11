@@ -1,0 +1,139 @@
+panel	method	image	direct_support	resolved	scalar_count	partner_information	resolved_labels	resolved_correct	resolved_wrong	unresolved_labels	exact_scalar_matches	coefficient_rmse_normalized	image_rmse_normalized_designed	image_rmse_physical_designed	image_rmse_physical_original	physical_image_finite	header_valid	carried_checksum_matches	checksum_pass	stream_exact	stream_sha256	conjugate_enabled_scalars	coefficient_error_available_components	coefficient_rmse_available_normalized	coefficient_rmse_all_designed_scale	coefficient_rmse_available_designed_scale	numerical_coefficient_error_scale	fraction	metric	mean	q05	q95	draw_count
+a	control	A	complete	True	476																												
+a	control	A	complete	False	36																												
+a	control	A	partial	True	0																												
+a	control	A	partial	False	0																												
+a	control	A	absent	True	0																												
+a	control	A	absent	False	0																												
+a	control	B	complete	True	483																												
+a	control	B	complete	False	26																												
+a	control	B	partial	True	1																												
+a	control	B	partial	False	0																												
+a	control	B	absent	True	2																												
+a	control	B	absent	False	0																												
+a	position	A	complete	True	475																												
+a	position	A	complete	False	37																												
+a	position	A	partial	True	0																												
+a	position	A	partial	False	0																												
+a	position	A	absent	True	0																												
+a	position	A	absent	False	0																												
+a	position	B	complete	True	477																												
+a	position	B	complete	False	32																												
+a	position	B	partial	True	1																												
+a	position	B	partial	False	0																												
+a	position	B	absent	True	2																												
+a	position	B	absent	False	0																												
+a	position_weighted	A	complete	True	480																												
+a	position_weighted	A	complete	False	32																												
+a	position_weighted	A	partial	True	0																												
+a	position_weighted	A	partial	False	0																												
+a	position_weighted	A	absent	True	0																												
+a	position_weighted	A	absent	False	0																												
+a	position_weighted	B	complete	True	490																												
+a	position_weighted	B	complete	False	19																												
+a	position_weighted	B	partial	True	1																												
+a	position_weighted	B	partial	False	0																												
+a	position_weighted	B	absent	True	2																												
+a	position_weighted	B	absent	False	0																												
+b	control	A			512	True	476	466	10	36	475	0.0975859732329995	0.05320272888012667	0.16092782114681112	0.16427652778369825	True	True	False	False	False	0efb352a94ae1f81bec0df4a0265581ce692eca23654d6b6c342c5d07945da21	448	512	0.0975859732329995	0.2948303917116905	0.2948303917116905	designed coefficient scale						
+b	control	B			512	True	486	478	8	26	486	0.0662829090813098	0.03402069087198858	0.09427354722859216	0.09622953105401685	True	True	False	False	False	e090bb1d553a36c00f8a590a8a16d42a624606633af57a0b8e17570b98bd5d9f	448	509	0.06647795484597037	0.18367425233183796	0.1842147368321573	designed coefficient scale						
+b	position	A			512	True	475	466	9	37	474	0.10594197677946424	0.056364574251356304	0.17046987402780275	0.17222120008764968	True	True	False	False	False	1899a076ce4af0c378fc53968739c3df2b288ef96df2677f4355ead3949f0749	448	512	0.10594197677946424	0.3200758621120962	0.3200758621120962	designed coefficient scale						
+b	position	B			512	True	480	475	5	32	486	0.06773694450441096	0.03495528358620608	0.09686336442880168	0.09898484760116288	True	True	False	False	False	2eb9f97b7ac326e4848ff74bbf7f8ec17caecc976e28cb870156b012939297fe	448	509	0.06793626895048238	0.18770347906469753	0.18825582006950642	designed coefficient scale						
+b	position_weighted	A			512	True	480	479	1	32	496	0.08027749334977742	0.040151004652476306	0.12130571676570079	0.12468909573603061	True	True	False	False	False	936359f6ad4714185422e229663cf4c7adbbdfe7372afe94d8effff2eae98f75	448	512	0.08027749334977742	0.24253736501081377	0.24253736501081377	designed coefficient scale						
+b	position_weighted	B			512	True	493	492	1	19	500	0.07347969915532224	0.03673984957766111	0.10180851286540651	0.10420441810048137	True	True	False	False	False	11b382cdabf21ad5802388a4d595bedff417b9fa7a7eece3f8fce17449c6742d	448	509	0.07369592237647264	0.20361702573081303	0.20421619434051996	designed coefficient scale						
+b	control	A			512	False	433	413	20	79	442	0.16992399891393653	0.08374861095857382	0.2531450177953068	0.25526226936396723	True	True	False	False	False	238bb9b86c6651ef54e45f50ee3654066b217f9c49abd434604c4de466f45364	0	512	0.16992399891393653	0.5133807400925882	0.5133807400925882	designed coefficient scale						
+b	control	B			512	False	448	432	16	64	452	0.15312524906011696	0.07702400374516535	0.21343852428299243	0.2140321016584615	True	True	False	False	False	445c1be6e08c707122109d9aa9250f2c28c229bc612369dfe4dd7ad93e6ca181	0	509	0.13588710946386803	0.4243200249364747	0.3765520188876022	designed coefficient scale						
+b	position	A			512	False	431	412	19	81	441	0.19085300855442555	0.09434779384984887	0.2851541244988535	0.2861571921762517	True	True	False	False	False	de4bd8d4d0bc0ad83a46ec4c3d9c7b2eac52414b6323b4c8992dc0b64632d824	0	512	0.19085300855442555	0.5766122466914947	0.5766122466914947	designed coefficient scale						
+b	position	B			512	False	450	435	15	62	454	0.1633925860870334	0.08220070714248211	0.22778350610748538	0.22827664418548974	True	True	False	False	False	2ebfc79583903dc74e0bd0aeffc8e3eaceef1e74767d077fc055bef303c78662	0	509	0.14742542455989976	0.45277148366084186	0.4085254405102565	designed coefficient scale						
+b	position_weighted	A			512	False	435	432	3	77	467	0.1578784191651767	0.07893920958258835	0.23849409204616684	0.24064261094689549	True	True	False	False	False	0845cd006586e57da0765433aafb5def9cac5cb7ac138f5c319f0a94fe275d3b	0	512	0.1578784191651767	0.4769881840923337	0.4769881840923337	designed coefficient scale						
+b	position_weighted	B			512	False	444	443	1	68	478	0.13981409524625493	0.06990704762312745	0.19371697595760382	0.19602582148317468	True	True	False	False	False	f44b66a15ec757c9a3c66d159791f73aceda4831f80f5129b14a09393f3bf03d	0	509	0.12059420951629124	0.3874339519152075	0.3341743984302523	designed coefficient scale						
+c	control	A																										0.1	resolved_labels	231.16	154.7	280.29999999999995	50
+c	control	A																										0.1	exact_scalar_matches	294.54	215.7	346.1	50
+d	control	A																										0.1	image_rmse_normalized_designed	0.28000503730487014	0.23827689330929647	0.31083628332646324	50
+c	control	B																										0.1	resolved_labels	239.64	168.0	294.55	50
+c	control	B																										0.1	exact_scalar_matches	305.68	235.0	359.65	50
+d	control	B																										0.1	image_rmse_normalized_designed	0.26960832034112064	0.23412281696875875	0.3031598591286356	50
+c	position	A																										0.1	resolved_labels	248.96	166.5	283.1	50
+c	position	A																										0.1	exact_scalar_matches	312.48	218.8	347.0	50
+d	position	A																										0.1	image_rmse_normalized_designed	0.2694865323057777	0.22873917224875442	0.3046202438357774	50
+c	position	B																										0.1	resolved_labels	260.66	174.25	299.55	50
+c	position	B																										0.1	exact_scalar_matches	326.48	240.8	362.55	50
+d	position	B																										0.1	image_rmse_normalized_designed	0.25893807606990327	0.22537777663773823	0.29071119664386674	50
+c	position_weighted	A																										0.1	resolved_labels	250.94	162.95	287.55	50
+c	position_weighted	A																										0.1	exact_scalar_matches	315.66	224.6	348.55	50
+d	position_weighted	A																										0.1	image_rmse_normalized_designed	0.2693916727364145	0.22458657042597047	0.305425073071726	50
+c	position_weighted	B																										0.1	resolved_labels	253.8	175.7	300.1	50
+c	position_weighted	B																										0.1	exact_scalar_matches	321.0	241.45	368.55	50
+d	position_weighted	B																										0.1	image_rmse_normalized_designed	0.260809370050173	0.22755550704341243	0.28921974231215103	50
+c	control	A																										0.25	resolved_labels	383.14	362.9	404.0	50
+c	control	A																										0.25	exact_scalar_matches	411.22	393.0	432.1	50
+d	control	A																										0.25	image_rmse_normalized_designed	0.1467924048251497	0.1166797264041461	0.17596418845187292	50
+c	control	B																										0.25	resolved_labels	386.36	354.9	411.0	50
+c	control	B																										0.25	exact_scalar_matches	416.3	382.15	435.55	50
+d	control	B																										0.25	image_rmse_normalized_designed	0.1457404894547774	0.11526388816465072	0.17160576888813225	50
+c	position	A																										0.25	resolved_labels	382.06	360.9	404.1	50
+c	position	A																										0.25	exact_scalar_matches	413.48	394.0	431.29999999999995	50
+d	position	A																										0.25	image_rmse_normalized_designed	0.142085233832861	0.10829080395478981	0.16981073249791037	50
+c	position	B																										0.25	resolved_labels	386.26	364.0	411.65	50
+c	position	B																										0.25	exact_scalar_matches	418.98	395.0	435.0	50
+d	position	B																										0.25	image_rmse_normalized_designed	0.14218873751803626	0.10775282228203006	0.1666520084396698	50
+c	position_weighted	A																										0.25	resolved_labels	384.92	363.45	409.75	50
+c	position_weighted	A																										0.25	exact_scalar_matches	423.6	402.45	442.0	50
+d	position_weighted	A																										0.25	image_rmse_normalized_designed	0.1392986380078741	0.1029742088263036	0.17269065951905074	50
+c	position_weighted	B																										0.25	resolved_labels	387.16	334.3	415.2	50
+c	position_weighted	B																										0.25	exact_scalar_matches	428.16	386.75	447.0	50
+d	position_weighted	B																										0.25	image_rmse_normalized_designed	0.13923000892514745	0.1101223285654756	0.1650654715153949	50
+c	control	A																										0.5	resolved_labels	441.34	429.35	452.55	50
+c	control	A																										0.5	exact_scalar_matches	453.22	442.0	464.0	50
+d	control	A																										0.5	image_rmse_normalized_designed	0.08460740936402912	0.0631759161428641	0.10246506136033987	50
+c	control	B																										0.5	resolved_labels	451.58	439.0	463.1	50
+c	control	B																										0.5	exact_scalar_matches	464.5	453.45	471.55	50
+d	control	B																										0.5	image_rmse_normalized_designed	0.08656313485176045	0.06703312150349224	0.11048859141587246	50
+c	position	A																										0.5	resolved_labels	439.86	426.45	452.55	50
+c	position	A																										0.5	exact_scalar_matches	455.2	443.45	464.0	50
+d	position	A																										0.5	image_rmse_normalized_designed	0.08193298048179433	0.058113452194118016	0.09907256443765089	50
+c	position	B																										0.5	resolved_labels	450.66	440.0	461.0	50
+c	position	B																										0.5	exact_scalar_matches	464.22	454.0	474.0	50
+d	position	B																										0.5	image_rmse_normalized_designed	0.0854919533291272	0.06482259534068678	0.10568230302695357	50
+c	position_weighted	A																										0.5	resolved_labels	449.2	435.35	460.55	50
+c	position_weighted	A																										0.5	exact_scalar_matches	469.5	458.9	479.0	50
+d	position_weighted	A																										0.5	image_rmse_normalized_designed	0.075846339631619	0.056196052687009806	0.09806683134237129	50
+c	position_weighted	B																										0.5	resolved_labels	459.36	448.9	472.1	50
+c	position_weighted	B																										0.5	exact_scalar_matches	479.58	470.0	489.55	50
+d	position_weighted	B																										0.5	image_rmse_normalized_designed	0.0715634631185626	0.04247765739816	0.09635263530924769	50
+c	control	A																										0.75	resolved_labels	463.68	454.9	471.55	50
+c	control	A																										0.75	exact_scalar_matches	468.06	461.0	475.55	50
+d	control	A																										0.75	image_rmse_normalized_designed	0.06135961449058591	0.04922723982733478	0.07729609260528056	50
+c	control	B																										0.75	resolved_labels	474.38	466.0	483.0	50
+c	control	B																										0.75	exact_scalar_matches	480.02	470.9	486.55	50
+d	control	B																										0.75	image_rmse_normalized_designed	0.05511166966728469	0.03910540267481351	0.0786528778414516	50
+c	position	A																										0.75	resolved_labels	463.38	456.0	470.55	50
+c	position	A																										0.75	exact_scalar_matches	470.08	462.45	477.55	50
+d	position	A																										0.75	image_rmse_normalized_designed	0.060968538930154824	0.04734443520177591	0.07986266292238538	50
+c	position	B																										0.75	resolved_labels	473.98	462.0	482.55	50
+c	position	B																										0.75	exact_scalar_matches	479.66	472.0	487.0	50
+d	position	B																										0.75	image_rmse_normalized_designed	0.057522806656734364	0.03734528850426088	0.07797707479830206	50
+c	position_weighted	A																										0.75	resolved_labels	470.8	463.45	479.0	50
+c	position_weighted	A																										0.75	exact_scalar_matches	485.98	477.0	494.0	50
+d	position_weighted	A																										0.75	image_rmse_normalized_designed	0.05194370997348588	0.034225280355133454	0.07101108034261132	50
+c	position_weighted	B																										0.75	resolved_labels	483.84	476.45	492.1	50
+c	position_weighted	B																										0.75	exact_scalar_matches	495.16	489.0	499.0	50
+d	position_weighted	B																										0.75	image_rmse_normalized_designed	0.042994264311032655	0.02739778857151536	0.0589506131616888	50
+c	control	A																										1.0	resolved_labels	476.0	476.0	476.0	50
+c	control	A																										1.0	exact_scalar_matches	475.0	475.0	475.0	50
+d	control	A																										1.0	image_rmse_normalized_designed	0.05320272888012667	0.05320272888012667	0.05320272888012667	50
+c	control	B																										1.0	resolved_labels	486.0	486.0	486.0	50
+c	control	B																										1.0	exact_scalar_matches	486.0	486.0	486.0	50
+d	control	B																										1.0	image_rmse_normalized_designed	0.034020690871988585	0.03402069087198858	0.03402069087198858	50
+c	position	A																										1.0	resolved_labels	475.0	475.0	475.0	50
+c	position	A																										1.0	exact_scalar_matches	474.0	474.0	474.0	50
+d	position	A																										1.0	image_rmse_normalized_designed	0.0563645742513563	0.056364574251356304	0.056364574251356304	50
+c	position	B																										1.0	resolved_labels	480.0	480.0	480.0	50
+c	position	B																										1.0	exact_scalar_matches	486.0	486.0	486.0	50
+d	position	B																										1.0	image_rmse_normalized_designed	0.03495528358620609	0.03495528358620608	0.03495528358620608	50
+c	position_weighted	A																										1.0	resolved_labels	480.0	480.0	480.0	50
+c	position_weighted	A																										1.0	exact_scalar_matches	496.0	496.0	496.0	50
+d	position_weighted	A																										1.0	image_rmse_normalized_designed	0.04015100465247631	0.040151004652476306	0.040151004652476306	50
+c	position_weighted	B																										1.0	resolved_labels	493.0	493.0	493.0	50
+c	position_weighted	B																										1.0	exact_scalar_matches	500.0	500.0	500.0	50
+d	position_weighted	B																										1.0	image_rmse_normalized_designed	0.03673984957766111	0.03673984957766111	0.03673984957766111	50

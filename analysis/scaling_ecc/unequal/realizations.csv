@@ -1,0 +1,801 @@
+image,arm,condition,probability,realization,seed,experiment,added_nucleotides,total_nucleotides,requested_sequenced_nucleotides,exact_quantized_stream,exact_stored_object,residual_component_errors,missing_components,residual_component_error_fraction,resolved_component_rmse,image_rmse,metadata_recovered,integrity_accepted,incorrect_accepted,declared_failure,failed_columns
+image_A,uniform,packet dropout,0,0,12102026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,1,12102027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,2,12102028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,3,12102029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,4,12102030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,5,12102031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,6,12102032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,7,12102033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,8,12102034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,9,12102035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,10,12102036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,11,12102037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,12,12102038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,13,12102039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,14,12102040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,15,12102041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,16,12102042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,17,12102043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,18,12102044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0,19,12102045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,0,12103026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,1,12103027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,2,12103028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,3,12103029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,4,12103030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,5,12103031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,6,12103032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,7,12103033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,8,12103034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,9,12103035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,10,12103036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,11,12103037,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,packet dropout,0.05,12,12103038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,13,12103039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,14,12103040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,15,12103041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,16,12103042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,17,12103043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,18,12103044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.05,19,12103045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,0,12104026,outer-code packet test,40528,202640,3242240,False,False,0,14,0.02734375,0.0,,False,False,False,True,2
+image_A,uniform,packet dropout,0.1,1,12104027,outer-code packet test,40528,202640,3242240,False,False,0,21,0.041015625,0.0,,True,False,False,True,2
+image_A,uniform,packet dropout,0.1,2,12104028,outer-code packet test,40528,202640,3242240,False,False,0,4,0.0078125,0.0,,False,False,False,True,4
+image_A,uniform,packet dropout,0.1,3,12104029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,4,12104030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,5,12104031,outer-code packet test,40528,202640,3242240,False,False,0,11,0.021484375,0.0,,False,False,False,True,2
+image_A,uniform,packet dropout,0.1,6,12104032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,7,12104033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,8,12104034,outer-code packet test,40528,202640,3242240,False,False,0,27,0.052734375,0.0,,True,False,False,True,2
+image_A,uniform,packet dropout,0.1,9,12104035,outer-code packet test,40528,202640,3242240,False,False,0,7,0.013671875,0.0,,True,False,False,True,2
+image_A,uniform,packet dropout,0.1,10,12104036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,11,12104037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,12,12104038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,13,12104039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,14,12104040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,15,12104041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,16,12104042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,17,12104043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,18,12104044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.1,19,12104045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,packet dropout,0.2,0,12105026,outer-code packet test,40528,202640,3242240,False,False,0,116,0.2265625,0.0,,False,False,False,True,14
+image_A,uniform,packet dropout,0.2,1,12105027,outer-code packet test,40528,202640,3242240,False,False,0,60,0.1171875,0.0,,False,False,False,True,16
+image_A,uniform,packet dropout,0.2,2,12105028,outer-code packet test,40528,202640,3242240,False,False,0,79,0.154296875,0.0,,False,False,False,True,16
+image_A,uniform,packet dropout,0.2,3,12105029,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,False,False,False,True,10
+image_A,uniform,packet dropout,0.2,4,12105030,outer-code packet test,40528,202640,3242240,False,False,0,64,0.125,0.0,,False,False,False,True,8
+image_A,uniform,packet dropout,0.2,5,12105031,outer-code packet test,40528,202640,3242240,False,False,0,83,0.162109375,0.0,,False,False,False,True,12
+image_A,uniform,packet dropout,0.2,6,12105032,outer-code packet test,40528,202640,3242240,False,False,0,30,0.05859375,0.0,,False,False,False,True,12
+image_A,uniform,packet dropout,0.2,7,12105033,outer-code packet test,40528,202640,3242240,False,False,0,45,0.087890625,0.0,,False,False,False,True,14
+image_A,uniform,packet dropout,0.2,8,12105034,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,False,False,False,True,12
+image_A,uniform,packet dropout,0.2,9,12105035,outer-code packet test,40528,202640,3242240,False,False,0,70,0.13671875,0.0,,False,False,False,True,14
+image_A,uniform,packet dropout,0.2,10,12105036,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,False,False,False,True,14
+image_A,uniform,packet dropout,0.2,11,12105037,outer-code packet test,40528,202640,3242240,False,False,0,50,0.09765625,0.0,,False,False,False,True,16
+image_A,uniform,packet dropout,0.2,12,12105038,outer-code packet test,40528,202640,3242240,False,False,0,68,0.1328125,0.0,,False,False,False,True,10
+image_A,uniform,packet dropout,0.2,13,12105039,outer-code packet test,40528,202640,3242240,False,False,0,95,0.185546875,0.0,,False,False,False,True,12
+image_A,uniform,packet dropout,0.2,14,12105040,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,8
+image_A,uniform,packet dropout,0.2,15,12105041,outer-code packet test,40528,202640,3242240,False,False,0,97,0.189453125,0.0,,False,False,False,True,18
+image_A,uniform,packet dropout,0.2,16,12105042,outer-code packet test,40528,202640,3242240,False,False,0,91,0.177734375,0.0,,False,False,False,True,16
+image_A,uniform,packet dropout,0.2,17,12105043,outer-code packet test,40528,202640,3242240,False,False,0,63,0.123046875,0.0,,False,False,False,True,18
+image_A,uniform,packet dropout,0.2,18,12105044,outer-code packet test,40528,202640,3242240,False,False,0,108,0.2109375,0.0,,False,False,False,True,16
+image_A,uniform,packet dropout,0.2,19,12105045,outer-code packet test,40528,202640,3242240,False,False,0,20,0.0390625,0.0,,False,False,False,True,12
+image_A,uniform,packet dropout,0.4,0,12106026,outer-code packet test,40528,202640,3242240,False,False,0,268,0.5234375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,1,12106027,outer-code packet test,40528,202640,3242240,False,False,0,230,0.44921875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,2,12106028,outer-code packet test,40528,202640,3242240,False,False,0,222,0.43359375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,3,12106029,outer-code packet test,40528,202640,3242240,False,False,0,255,0.498046875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,4,12106030,outer-code packet test,40528,202640,3242240,False,False,0,234,0.45703125,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,5,12106031,outer-code packet test,40528,202640,3242240,False,False,0,222,0.43359375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,6,12106032,outer-code packet test,40528,202640,3242240,False,False,0,220,0.4296875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,7,12106033,outer-code packet test,40528,202640,3242240,False,False,0,225,0.439453125,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,8,12106034,outer-code packet test,40528,202640,3242240,False,False,0,236,0.4609375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,9,12106035,outer-code packet test,40528,202640,3242240,False,False,0,224,0.4375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,10,12106036,outer-code packet test,40528,202640,3242240,False,False,0,252,0.4921875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,11,12106037,outer-code packet test,40528,202640,3242240,False,False,0,228,0.4453125,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,12,12106038,outer-code packet test,40528,202640,3242240,False,False,0,258,0.50390625,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,13,12106039,outer-code packet test,40528,202640,3242240,False,False,0,272,0.53125,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,14,12106040,outer-code packet test,40528,202640,3242240,False,False,0,224,0.4375,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,15,12106041,outer-code packet test,40528,202640,3242240,False,False,0,182,0.35546875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,16,12106042,outer-code packet test,40528,202640,3242240,False,False,0,237,0.462890625,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,17,12106043,outer-code packet test,40528,202640,3242240,False,False,0,212,0.4140625,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,18,12106044,outer-code packet test,40528,202640,3242240,False,False,0,240,0.46875,0.0,,False,False,False,True,34
+image_A,uniform,packet dropout,0.4,19,12106045,outer-code packet test,40528,202640,3242240,False,False,0,253,0.494140625,0.0,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0,0,12202026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,1,12202027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,2,12202028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,3,12202029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,4,12202030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,5,12202031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,6,12202032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,7,12202033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,8,12202034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,9,12202035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,10,12202036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,11,12202037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,12,12202038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,13,12202039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,14,12202040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,15,12202041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,16,12202042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,17,12202043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,18,12202044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0,19,12202045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,0,12203026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,1,12203027,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,2,12203028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,3,12203029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,4,12203030,outer-code packet test,40528,202640,3242240,False,False,24,0,0.046875,0.11572751247156893,,False,False,False,True,6
+image_A,uniform,unknown erroneous packet,0.05,5,12203031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,6,12203032,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,7,12203033,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,4
+image_A,uniform,unknown erroneous packet,0.05,8,12203034,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,9,12203035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,10,12203036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,11,12203037,outer-code packet test,40528,202640,3242240,False,False,3,0,0.005859375,0.015934899210524812,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,12,12203038,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,13,12203039,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,14,12203040,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,15,12203041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,16,12203042,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,4
+image_A,uniform,unknown erroneous packet,0.05,17,12203043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.05,18,12203044,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.05,19,12203045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,uniform,unknown erroneous packet,0.1,0,12204026,outer-code packet test,40528,202640,3242240,False,False,62,0,0.12109375,0.1977220121258964,,False,False,False,True,16
+image_A,uniform,unknown erroneous packet,0.1,1,12204027,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.1209666751958427,,False,False,False,True,8
+image_A,uniform,unknown erroneous packet,0.1,2,12204028,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.09557850868658353,,False,False,False,True,10
+image_A,uniform,unknown erroneous packet,0.1,3,12204029,outer-code packet test,40528,202640,3242240,False,False,30,0,0.05859375,0.11983042892204475,,False,False,False,True,10
+image_A,uniform,unknown erroneous packet,0.1,4,12204030,outer-code packet test,40528,202640,3242240,False,False,44,0,0.0859375,0.1569029252969563,,False,False,False,True,8
+image_A,uniform,unknown erroneous packet,0.1,5,12204031,outer-code packet test,40528,202640,3242240,False,False,10,0,0.01953125,0.07094467928087747,,False,False,False,True,6
+image_A,uniform,unknown erroneous packet,0.1,6,12204032,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.09734362358758793,,False,False,False,True,8
+image_A,uniform,unknown erroneous packet,0.1,7,12204033,outer-code packet test,40528,202640,3242240,False,False,35,0,0.068359375,0.1474741672550097,,False,False,False,True,18
+image_A,uniform,unknown erroneous packet,0.1,8,12204034,outer-code packet test,40528,202640,3242240,False,False,28,0,0.0546875,0.157778646080457,,False,False,False,True,12
+image_A,uniform,unknown erroneous packet,0.1,9,12204035,outer-code packet test,40528,202640,3242240,False,False,30,0,0.05859375,0.14174362100013632,,False,False,False,True,8
+image_A,uniform,unknown erroneous packet,0.1,10,12204036,outer-code packet test,40528,202640,3242240,False,False,46,0,0.08984375,0.20448062691258767,,False,False,False,True,16
+image_A,uniform,unknown erroneous packet,0.1,11,12204037,outer-code packet test,40528,202640,3242240,False,False,4,0,0.0078125,0.06282198491661731,,False,False,False,True,10
+image_A,uniform,unknown erroneous packet,0.1,12,12204038,outer-code packet test,40528,202640,3242240,False,False,51,0,0.099609375,0.18483822845371786,,False,False,False,True,16
+image_A,uniform,unknown erroneous packet,0.1,13,12204039,outer-code packet test,40528,202640,3242240,False,False,25,0,0.048828125,0.12443972446102369,,False,False,False,True,6
+image_A,uniform,unknown erroneous packet,0.1,14,12204040,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.09380116391724454,,False,False,False,True,12
+image_A,uniform,unknown erroneous packet,0.1,15,12204041,outer-code packet test,40528,202640,3242240,False,False,3,0,0.005859375,0.05303597779612563,,False,False,False,True,6
+image_A,uniform,unknown erroneous packet,0.1,16,12204042,outer-code packet test,40528,202640,3242240,False,False,47,0,0.091796875,0.18844506515161114,,False,False,False,True,14
+image_A,uniform,unknown erroneous packet,0.1,17,12204043,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.1310350268305684,,False,False,False,True,10
+image_A,uniform,unknown erroneous packet,0.1,18,12204044,outer-code packet test,40528,202640,3242240,False,False,31,0,0.060546875,0.12957731640679124,,False,False,False,True,18
+image_A,uniform,unknown erroneous packet,0.1,19,12204045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,False,False,True,2
+image_A,uniform,unknown erroneous packet,0.2,0,12205026,outer-code packet test,40528,202640,3242240,False,False,87,0,0.169921875,0.240210511208684,,False,False,False,True,28
+image_A,uniform,unknown erroneous packet,0.2,1,12205027,outer-code packet test,40528,202640,3242240,False,False,101,0,0.197265625,0.22405705100782702,,False,False,False,True,26
+image_A,uniform,unknown erroneous packet,0.2,2,12205028,outer-code packet test,40528,202640,3242240,False,False,135,0,0.263671875,0.2911330287226138,,False,False,False,True,30
+image_A,uniform,unknown erroneous packet,0.2,3,12205029,outer-code packet test,40528,202640,3242240,False,False,105,0,0.205078125,0.2517340341223255,,False,False,False,True,28
+image_A,uniform,unknown erroneous packet,0.2,4,12205030,outer-code packet test,40528,202640,3242240,False,False,136,0,0.265625,0.2889102828725705,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,5,12205031,outer-code packet test,40528,202640,3242240,False,False,110,0,0.21484375,0.2556638277491557,,False,False,False,True,32
+image_A,uniform,unknown erroneous packet,0.2,6,12205032,outer-code packet test,40528,202640,3242240,False,False,80,0,0.15625,0.21435918787411912,,False,False,False,True,28
+image_A,uniform,unknown erroneous packet,0.2,7,12205033,outer-code packet test,40528,202640,3242240,False,False,88,0,0.171875,0.24527051976534234,,False,False,False,True,30
+image_A,uniform,unknown erroneous packet,0.2,8,12205034,outer-code packet test,40528,202640,3242240,False,False,102,0,0.19921875,0.25373563255287834,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,9,12205035,outer-code packet test,40528,202640,3242240,False,False,127,0,0.248046875,0.2725449577010258,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,10,12205036,outer-code packet test,40528,202640,3242240,False,False,134,0,0.26171875,0.28149441033282857,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,11,12205037,outer-code packet test,40528,202640,3242240,False,False,116,0,0.2265625,0.2890158669135492,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,12,12205038,outer-code packet test,40528,202640,3242240,False,False,141,0,0.275390625,0.28788650118777287,,False,False,False,True,30
+image_A,uniform,unknown erroneous packet,0.2,13,12205039,outer-code packet test,40528,202640,3242240,False,False,142,0,0.27734375,0.2996031746031746,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,14,12205040,outer-code packet test,40528,202640,3242240,False,False,119,0,0.232421875,0.2932080531961182,,False,False,False,True,32
+image_A,uniform,unknown erroneous packet,0.2,15,12205041,outer-code packet test,40528,202640,3242240,False,False,139,0,0.271484375,0.28585548208658146,,False,False,False,True,30
+image_A,uniform,unknown erroneous packet,0.2,16,12205042,outer-code packet test,40528,202640,3242240,False,False,119,0,0.232421875,0.27974431443067116,,False,False,False,True,32
+image_A,uniform,unknown erroneous packet,0.2,17,12205043,outer-code packet test,40528,202640,3242240,False,False,120,0,0.234375,0.2804716315508795,,False,False,False,True,32
+image_A,uniform,unknown erroneous packet,0.2,18,12205044,outer-code packet test,40528,202640,3242240,False,False,125,0,0.244140625,0.2732806313607796,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.2,19,12205045,outer-code packet test,40528,202640,3242240,False,False,143,0,0.279296875,0.2820672213489834,,False,False,False,True,30
+image_A,uniform,unknown erroneous packet,0.4,0,12206026,outer-code packet test,40528,202640,3242240,False,False,225,0,0.439453125,0.3761896390051631,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,1,12206027,outer-code packet test,40528,202640,3242240,False,False,214,0,0.41796875,0.38079475492273945,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,2,12206028,outer-code packet test,40528,202640,3242240,False,False,197,0,0.384765625,0.3422748444758944,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,3,12206029,outer-code packet test,40528,202640,3242240,False,False,223,0,0.435546875,0.36257172338467814,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,4,12206030,outer-code packet test,40528,202640,3242240,False,False,225,0,0.439453125,0.385911423264715,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,5,12206031,outer-code packet test,40528,202640,3242240,False,False,243,0,0.474609375,0.4076572255955325,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,6,12206032,outer-code packet test,40528,202640,3242240,False,False,245,0,0.478515625,0.40553439357082727,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,7,12206033,outer-code packet test,40528,202640,3242240,False,False,226,0,0.44140625,0.3863702045916852,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,8,12206034,outer-code packet test,40528,202640,3242240,False,False,207,0,0.404296875,0.3699824948362567,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,9,12206035,outer-code packet test,40528,202640,3242240,False,False,226,0,0.44140625,0.3926391290214208,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,10,12206036,outer-code packet test,40528,202640,3242240,False,False,252,0,0.4921875,0.3879589829628607,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,11,12206037,outer-code packet test,40528,202640,3242240,False,False,251,0,0.490234375,0.413055973005445,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,12,12206038,outer-code packet test,40528,202640,3242240,False,False,234,0,0.45703125,0.3861408820640588,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,13,12206039,outer-code packet test,40528,202640,3242240,False,False,238,0,0.46484375,0.3982860024315821,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,14,12206040,outer-code packet test,40528,202640,3242240,False,False,205,0,0.400390625,0.3430675473222426,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,15,12206041,outer-code packet test,40528,202640,3242240,False,False,215,0,0.419921875,0.3764014921202427,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,16,12206042,outer-code packet test,40528,202640,3242240,False,False,268,0,0.5234375,0.4270438678924688,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,17,12206043,outer-code packet test,40528,202640,3242240,False,False,222,0,0.43359375,0.40083293851131546,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,18,12206044,outer-code packet test,40528,202640,3242240,False,False,220,0,0.4296875,0.38240669821804335,,False,False,False,True,34
+image_A,uniform,unknown erroneous packet,0.4,19,12206045,outer-code packet test,40528,202640,3242240,False,False,228,0,0.4453125,0.3874309608602629,,False,False,False,True,34
+image_A,unequal,packet dropout,0,0,12102026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,1,12102027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,2,12102028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,3,12102029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,4,12102030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,5,12102031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,6,12102032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,7,12102033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,8,12102034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,9,12102035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,10,12102036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,11,12102037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,12,12102038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,13,12102039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,14,12102040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,15,12102041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,16,12102042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,17,12102043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,18,12102044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0,19,12102045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0.05,0,12103026,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,1,12103027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0.05,2,12103028,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,3,12103029,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,4,12103030,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,5,12103031,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,6,12103032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0.05,7,12103033,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,8,12103034,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,9,12103035,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,10,12103036,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,11,12103037,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_A,unequal,packet dropout,0.05,12,12103038,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,13,12103039,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,14,12103040,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,15,12103041,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,16,12103042,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,17,12103043,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,18,12103044,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.05,19,12103045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,packet dropout,0.1,0,12104026,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,False,False,False,True,2
+image_A,unequal,packet dropout,0.1,1,12104027,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,2,12104028,outer-code packet test,40528,202640,3242240,False,False,0,96,0.1875,0.0,,False,False,False,True,2
+image_A,unequal,packet dropout,0.1,3,12104029,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,4,12104030,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,5,12104031,outer-code packet test,40528,202640,3242240,False,False,0,80,0.15625,0.0,,False,False,False,True,2
+image_A,unequal,packet dropout,0.1,6,12104032,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,7,12104033,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,8,12104034,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,9,12104035,outer-code packet test,40528,202640,3242240,False,False,0,104,0.203125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,10,12104036,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,11,12104037,outer-code packet test,40528,202640,3242240,False,False,0,64,0.125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,12,12104038,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,13,12104039,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,14,12104040,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,15,12104041,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,16,12104042,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,17,12104043,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,18,12104044,outer-code packet test,40528,202640,3242240,False,False,0,96,0.1875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.1,19,12104045,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_A,unequal,packet dropout,0.2,0,12105026,outer-code packet test,40528,202640,3242240,False,False,0,168,0.328125,0.0,,False,False,False,True,10
+image_A,unequal,packet dropout,0.2,1,12105027,outer-code packet test,40528,202640,3242240,False,False,0,208,0.40625,0.0,,False,False,False,True,16
+image_A,unequal,packet dropout,0.2,2,12105028,outer-code packet test,40528,202640,3242240,False,False,0,128,0.25,0.0,,False,False,False,True,10
+image_A,unequal,packet dropout,0.2,3,12105029,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,4,12105030,outer-code packet test,40528,202640,3242240,False,False,0,80,0.15625,0.0,,False,False,False,True,6
+image_A,unequal,packet dropout,0.2,5,12105031,outer-code packet test,40528,202640,3242240,False,False,0,128,0.25,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,6,12105032,outer-code packet test,40528,202640,3242240,False,False,0,168,0.328125,0.0,,False,False,False,True,12
+image_A,unequal,packet dropout,0.2,7,12105033,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,False,False,False,True,12
+image_A,unequal,packet dropout,0.2,8,12105034,outer-code packet test,40528,202640,3242240,False,False,0,152,0.296875,0.0,,False,False,False,True,10
+image_A,unequal,packet dropout,0.2,9,12105035,outer-code packet test,40528,202640,3242240,False,False,0,152,0.296875,0.0,,False,False,False,True,6
+image_A,unequal,packet dropout,0.2,10,12105036,outer-code packet test,40528,202640,3242240,False,False,0,176,0.34375,0.0,,False,False,False,True,12
+image_A,unequal,packet dropout,0.2,11,12105037,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,14
+image_A,unequal,packet dropout,0.2,12,12105038,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,13,12105039,outer-code packet test,40528,202640,3242240,False,False,0,232,0.453125,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,14,12105040,outer-code packet test,40528,202640,3242240,False,False,0,72,0.140625,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,15,12105041,outer-code packet test,40528,202640,3242240,False,False,0,184,0.359375,0.0,,False,False,False,True,16
+image_A,unequal,packet dropout,0.2,16,12105042,outer-code packet test,40528,202640,3242240,False,False,0,136,0.265625,0.0,,False,False,False,True,12
+image_A,unequal,packet dropout,0.2,17,12105043,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,10
+image_A,unequal,packet dropout,0.2,18,12105044,outer-code packet test,40528,202640,3242240,False,False,0,192,0.375,0.0,,False,False,False,True,8
+image_A,unequal,packet dropout,0.2,19,12105045,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,12
+image_A,unequal,packet dropout,0.4,0,12106026,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,1,12106027,outer-code packet test,40528,202640,3242240,False,False,0,400,0.78125,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,2,12106028,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,3,12106029,outer-code packet test,40528,202640,3242240,False,False,0,424,0.828125,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,4,12106030,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,5,12106031,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,6,12106032,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,7,12106033,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,8,12106034,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,9,12106035,outer-code packet test,40528,202640,3242240,False,False,0,328,0.640625,0.0,,False,False,False,True,26
+image_A,unequal,packet dropout,0.4,10,12106036,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,11,12106037,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,12,12106038,outer-code packet test,40528,202640,3242240,False,False,0,424,0.828125,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,13,12106039,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,14,12106040,outer-code packet test,40528,202640,3242240,False,False,0,368,0.71875,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,15,12106041,outer-code packet test,40528,202640,3242240,False,False,0,328,0.640625,0.0,,False,False,False,True,26
+image_A,unequal,packet dropout,0.4,16,12106042,outer-code packet test,40528,202640,3242240,False,False,0,368,0.71875,0.0,,False,False,False,True,30
+image_A,unequal,packet dropout,0.4,17,12106043,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,18,12106044,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_A,unequal,packet dropout,0.4,19,12106045,outer-code packet test,40528,202640,3242240,False,False,0,456,0.890625,0.0,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0,0,12202026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,1,12202027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,2,12202028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,3,12202029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,4,12202030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,5,12202031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,6,12202032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,7,12202033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,8,12202034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,9,12202035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,10,12202036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,11,12202037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,12,12202038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,13,12202039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,14,12202040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,15,12202041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,16,12202042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,17,12202043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,18,12202044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0,19,12202045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_A,unequal,unknown erroneous packet,0.05,0,12203026,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.012068973274401228,0.018231616697379893,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,1,12203027,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.010592339535745347,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,2,12203028,outer-code packet test,40528,202640,3242240,False,False,5,0,0.009765625,0.0068732174903526864,0.010382810858287732,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,3,12203029,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.011821800880766849,0.01883748274075658,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,4,12203030,outer-code packet test,40528,202640,3242240,False,False,36,0,0.0703125,0.014714679537888218,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,5,12203031,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.01122391716169123,0.016955059132422408,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,6,12203032,outer-code packet test,40528,202640,3242240,False,False,26,0,0.05078125,0.014029896452114037,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,7,12203033,outer-code packet test,40528,202640,3242240,False,False,5,0,0.009765625,0.005784674498854465,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.05,8,12203034,outer-code packet test,40528,202640,3242240,False,False,7,0,0.013671875,0.006429306248420495,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,9,12203035,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.012470044732119576,0.018837482740756573,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,10,12203036,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.00805956190936107,0.012174924920244645,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,11,12203037,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.01285861249684099,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,12,12203038,outer-code packet test,40528,202640,3242240,False,False,20,0,0.0390625,0.01215024673999592,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,13,12203039,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.014099871432095134,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,14,12203040,outer-code packet test,40528,202640,3242240,False,False,33,0,0.064453125,0.06577612878670942,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.05,15,12203041,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.013309928437498748,0.020106226770484965,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,16,12203042,outer-code packet test,40528,202640,3242240,False,False,6,0,0.01171875,0.008417937871268422,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.05,17,12203043,outer-code packet test,40528,202640,3242240,False,False,12,0,0.0234375,0.01122391716169123,0.01695505913242241,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.05,18,12203044,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.01423878977619774,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.05,19,12203045,outer-code packet test,40528,202640,3242240,False,False,13,0,0.025390625,0.009306380475840138,0.014058392360133471,True,False,False,True,0
+image_A,unequal,unknown erroneous packet,0.1,0,12204026,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.01122391716169123,,False,False,False,True,10
+image_A,unequal,unknown erroneous packet,0.1,1,12204027,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.01746708021989981,,False,False,False,True,6
+image_A,unequal,unknown erroneous packet,0.1,2,12204028,outer-code packet test,40528,202640,3242240,False,False,45,0,0.087890625,0.06960016554281898,,False,False,False,True,10
+image_A,unequal,unknown erroneous packet,0.1,3,12204029,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.011821800880766849,,False,False,False,True,8
+image_A,unequal,unknown erroneous packet,0.1,4,12204030,outer-code packet test,40528,202640,3242240,False,False,78,0,0.15234375,0.06088069838319943,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.1,5,12204031,outer-code packet test,40528,202640,3242240,False,False,34,0,0.06640625,0.017240225393832107,,False,False,False,True,6
+image_A,unequal,unknown erroneous packet,0.1,6,12204032,outer-code packet test,40528,202640,3242240,False,False,51,0,0.099609375,0.020856940517488726,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.1,7,12204033,outer-code packet test,40528,202640,3242240,False,False,54,0,0.10546875,0.01877072215121478,,False,False,False,True,14
+image_A,unequal,unknown erroneous packet,0.1,8,12204034,outer-code packet test,40528,202640,3242240,False,False,41,0,0.080078125,0.05471659616324474,,False,False,False,True,12
+image_A,unequal,unknown erroneous packet,0.1,9,12204035,outer-code packet test,40528,202640,3242240,False,False,70,0,0.13671875,0.07231863876431585,,False,False,False,True,6
+image_A,unequal,unknown erroneous packet,0.1,10,12204036,outer-code packet test,40528,202640,3242240,False,False,132,0,0.2578125,0.20131312594751588,,False,False,False,True,14
+image_A,unequal,unknown erroneous packet,0.1,11,12204037,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.016421572775046474,,False,False,False,True,10
+image_A,unequal,unknown erroneous packet,0.1,12,12204038,outer-code packet test,40528,202640,3242240,False,False,70,0,0.13671875,0.060670177981827986,,False,False,False,True,10
+image_A,unequal,unknown erroneous packet,0.1,13,12204039,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.017240225393832107,,False,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.1,14,12204040,outer-code packet test,40528,202640,3242240,False,False,62,0,0.12109375,0.05217537219168534,,False,False,False,True,10
+image_A,unequal,unknown erroneous packet,0.1,15,12204041,outer-code packet test,40528,202640,3242240,False,False,45,0,0.087890625,0.016718551137254678,,False,False,False,True,4
+image_A,unequal,unknown erroneous packet,0.1,16,12204042,outer-code packet test,40528,202640,3242240,False,False,103,0,0.201171875,0.20259481386299702,,False,False,False,True,14
+image_A,unequal,unknown erroneous packet,0.1,17,12204043,outer-code packet test,40528,202640,3242240,False,False,61,0,0.119140625,0.0715524719057816,,False,False,False,True,8
+image_A,unequal,unknown erroneous packet,0.1,18,12204044,outer-code packet test,40528,202640,3242240,False,False,34,0,0.06640625,0.018184824186332698,,False,False,False,True,14
+image_A,unequal,unknown erroneous packet,0.1,19,12204045,outer-code packet test,40528,202640,3242240,False,False,25,0,0.048828125,0.014913984502354075,0.022529343855148563,True,False,False,True,2
+image_A,unequal,unknown erroneous packet,0.2,0,12205026,outer-code packet test,40528,202640,3242240,False,False,155,0,0.302734375,0.2265209226430568,,False,False,False,True,24
+image_A,unequal,unknown erroneous packet,0.2,1,12205027,outer-code packet test,40528,202640,3242240,False,False,154,0,0.30078125,0.18785397426261308,,False,False,False,True,20
+image_A,unequal,unknown erroneous packet,0.2,2,12205028,outer-code packet test,40528,202640,3242240,False,False,235,0,0.458984375,0.3897812284111023,,False,False,False,True,26
+image_A,unequal,unknown erroneous packet,0.2,3,12205029,outer-code packet test,40528,202640,3242240,False,False,141,0,0.275390625,0.22326057721048015,,False,False,False,True,24
+image_A,unequal,unknown erroneous packet,0.2,4,12205030,outer-code packet test,40528,202640,3242240,False,False,222,0,0.43359375,0.33450639206007726,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,5,12205031,outer-code packet test,40528,202640,3242240,False,False,227,0,0.443359375,0.32533632809669544,,False,False,False,True,28
+image_A,unequal,unknown erroneous packet,0.2,6,12205032,outer-code packet test,40528,202640,3242240,False,False,103,0,0.201171875,0.17851630542500901,,False,False,False,True,24
+image_A,unequal,unknown erroneous packet,0.2,7,12205033,outer-code packet test,40528,202640,3242240,False,False,93,0,0.181640625,0.07397361858058431,,False,False,False,True,22
+image_A,unequal,unknown erroneous packet,0.2,8,12205034,outer-code packet test,40528,202640,3242240,False,False,194,0,0.37890625,0.2992481866248929,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,9,12205035,outer-code packet test,40528,202640,3242240,False,False,188,0,0.3671875,0.30568114817355424,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,10,12205036,outer-code packet test,40528,202640,3242240,False,False,235,0,0.458984375,0.3093965957542983,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,11,12205037,outer-code packet test,40528,202640,3242240,False,False,189,0,0.369140625,0.2895126159594736,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,12,12205038,outer-code packet test,40528,202640,3242240,False,False,204,0,0.3984375,0.2764281270931446,,False,False,False,True,26
+image_A,unequal,unknown erroneous packet,0.2,13,12205039,outer-code packet test,40528,202640,3242240,False,False,239,0,0.466796875,0.3574596258345673,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,14,12205040,outer-code packet test,40528,202640,3242240,False,False,221,0,0.431640625,0.2821614141197194,,False,False,False,True,28
+image_A,unequal,unknown erroneous packet,0.2,15,12205041,outer-code packet test,40528,202640,3242240,False,False,201,0,0.392578125,0.3195953749723292,,False,False,False,True,26
+image_A,unequal,unknown erroneous packet,0.2,16,12205042,outer-code packet test,40528,202640,3242240,False,False,211,0,0.412109375,0.2748141221139807,,False,False,False,True,28
+image_A,unequal,unknown erroneous packet,0.2,17,12205043,outer-code packet test,40528,202640,3242240,False,False,172,0,0.3359375,0.2978041752268844,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.2,18,12205044,outer-code packet test,40528,202640,3242240,False,False,181,0,0.353515625,0.24398711987242938,,False,False,False,True,28
+image_A,unequal,unknown erroneous packet,0.2,19,12205045,outer-code packet test,40528,202640,3242240,False,False,262,0,0.51171875,0.3328576301364222,,False,False,False,True,26
+image_A,unequal,unknown erroneous packet,0.4,0,12206026,outer-code packet test,40528,202640,3242240,False,False,334,0,0.65234375,0.38675719611636883,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,1,12206027,outer-code packet test,40528,202640,3242240,False,False,348,0,0.6796875,0.4272443260708537,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,2,12206028,outer-code packet test,40528,202640,3242240,False,False,290,0,0.56640625,0.36318738530619843,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,3,12206029,outer-code packet test,40528,202640,3242240,False,False,353,0,0.689453125,0.4077465433798256,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,4,12206030,outer-code packet test,40528,202640,3242240,False,False,369,0,0.720703125,0.35979231099993464,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,5,12206031,outer-code packet test,40528,202640,3242240,False,False,368,0,0.71875,0.4195572448224957,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,6,12206032,outer-code packet test,40528,202640,3242240,False,False,354,0,0.69140625,0.3978409623742979,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,7,12206033,outer-code packet test,40528,202640,3242240,False,False,337,0,0.658203125,0.3820359094771165,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,8,12206034,outer-code packet test,40528,202640,3242240,False,False,312,0,0.609375,0.37207539324917316,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,9,12206035,outer-code packet test,40528,202640,3242240,False,False,332,0,0.6484375,0.4204711046688298,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,10,12206036,outer-code packet test,40528,202640,3242240,False,False,349,0,0.681640625,0.3918462422637426,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,11,12206037,outer-code packet test,40528,202640,3242240,False,False,346,0,0.67578125,0.41532522158248425,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,12,12206038,outer-code packet test,40528,202640,3242240,False,False,359,0,0.701171875,0.39219771897405975,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,13,12206039,outer-code packet test,40528,202640,3242240,False,False,350,0,0.68359375,0.4071305770294471,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,14,12206040,outer-code packet test,40528,202640,3242240,False,False,284,0,0.5546875,0.40809397245023615,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,15,12206041,outer-code packet test,40528,202640,3242240,False,False,357,0,0.697265625,0.4293285860147951,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,16,12206042,outer-code packet test,40528,202640,3242240,False,False,359,0,0.701171875,0.40889627153075886,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,17,12206043,outer-code packet test,40528,202640,3242240,False,False,335,0,0.654296875,0.3962148080262388,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,18,12206044,outer-code packet test,40528,202640,3242240,False,False,345,0,0.673828125,0.4031734314443665,,False,False,False,True,30
+image_A,unequal,unknown erroneous packet,0.4,19,12206045,outer-code packet test,40528,202640,3242240,False,False,355,0,0.693359375,0.3694634114443127,,False,False,False,True,30
+image_B,uniform,packet dropout,0,0,12102026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,1,12102027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,2,12102028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,3,12102029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,4,12102030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,5,12102031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,6,12102032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,7,12102033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,8,12102034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,9,12102035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,10,12102036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,11,12102037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,12,12102038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,13,12102039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,14,12102040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,15,12102041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,16,12102042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,17,12102043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,18,12102044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0,19,12102045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,0,12103026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,1,12103027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,2,12103028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,3,12103029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,4,12103030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,5,12103031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,6,12103032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,7,12103033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,8,12103034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,9,12103035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,10,12103036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,11,12103037,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,packet dropout,0.05,12,12103038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,13,12103039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,14,12103040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,15,12103041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,16,12103042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,17,12103043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,18,12103044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.05,19,12103045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,0,12104026,outer-code packet test,40528,202640,3242240,False,False,0,14,0.02734375,0.0,,False,False,False,True,2
+image_B,uniform,packet dropout,0.1,1,12104027,outer-code packet test,40528,202640,3242240,False,False,0,21,0.041015625,0.0,,True,False,False,True,2
+image_B,uniform,packet dropout,0.1,2,12104028,outer-code packet test,40528,202640,3242240,False,False,0,4,0.0078125,0.0,,False,False,False,True,4
+image_B,uniform,packet dropout,0.1,3,12104029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,4,12104030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,5,12104031,outer-code packet test,40528,202640,3242240,False,False,0,11,0.021484375,0.0,,False,False,False,True,2
+image_B,uniform,packet dropout,0.1,6,12104032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,7,12104033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,8,12104034,outer-code packet test,40528,202640,3242240,False,False,0,27,0.052734375,0.0,,True,False,False,True,2
+image_B,uniform,packet dropout,0.1,9,12104035,outer-code packet test,40528,202640,3242240,False,False,0,7,0.013671875,0.0,,True,False,False,True,2
+image_B,uniform,packet dropout,0.1,10,12104036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,11,12104037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,12,12104038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,13,12104039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,14,12104040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,15,12104041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,16,12104042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,17,12104043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,18,12104044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.1,19,12104045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,packet dropout,0.2,0,12105026,outer-code packet test,40528,202640,3242240,False,False,0,116,0.2265625,0.0,,False,False,False,True,14
+image_B,uniform,packet dropout,0.2,1,12105027,outer-code packet test,40528,202640,3242240,False,False,0,60,0.1171875,0.0,,False,False,False,True,16
+image_B,uniform,packet dropout,0.2,2,12105028,outer-code packet test,40528,202640,3242240,False,False,0,79,0.154296875,0.0,,False,False,False,True,16
+image_B,uniform,packet dropout,0.2,3,12105029,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,False,False,False,True,10
+image_B,uniform,packet dropout,0.2,4,12105030,outer-code packet test,40528,202640,3242240,False,False,0,64,0.125,0.0,,False,False,False,True,8
+image_B,uniform,packet dropout,0.2,5,12105031,outer-code packet test,40528,202640,3242240,False,False,0,83,0.162109375,0.0,,False,False,False,True,12
+image_B,uniform,packet dropout,0.2,6,12105032,outer-code packet test,40528,202640,3242240,False,False,0,30,0.05859375,0.0,,False,False,False,True,12
+image_B,uniform,packet dropout,0.2,7,12105033,outer-code packet test,40528,202640,3242240,False,False,0,45,0.087890625,0.0,,False,False,False,True,14
+image_B,uniform,packet dropout,0.2,8,12105034,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,False,False,False,True,12
+image_B,uniform,packet dropout,0.2,9,12105035,outer-code packet test,40528,202640,3242240,False,False,0,70,0.13671875,0.0,,False,False,False,True,14
+image_B,uniform,packet dropout,0.2,10,12105036,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,False,False,False,True,14
+image_B,uniform,packet dropout,0.2,11,12105037,outer-code packet test,40528,202640,3242240,False,False,0,50,0.09765625,0.0,,False,False,False,True,16
+image_B,uniform,packet dropout,0.2,12,12105038,outer-code packet test,40528,202640,3242240,False,False,0,68,0.1328125,0.0,,False,False,False,True,10
+image_B,uniform,packet dropout,0.2,13,12105039,outer-code packet test,40528,202640,3242240,False,False,0,95,0.185546875,0.0,,False,False,False,True,12
+image_B,uniform,packet dropout,0.2,14,12105040,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,8
+image_B,uniform,packet dropout,0.2,15,12105041,outer-code packet test,40528,202640,3242240,False,False,0,97,0.189453125,0.0,,False,False,False,True,18
+image_B,uniform,packet dropout,0.2,16,12105042,outer-code packet test,40528,202640,3242240,False,False,0,91,0.177734375,0.0,,False,False,False,True,16
+image_B,uniform,packet dropout,0.2,17,12105043,outer-code packet test,40528,202640,3242240,False,False,0,63,0.123046875,0.0,,False,False,False,True,18
+image_B,uniform,packet dropout,0.2,18,12105044,outer-code packet test,40528,202640,3242240,False,False,0,108,0.2109375,0.0,,False,False,False,True,16
+image_B,uniform,packet dropout,0.2,19,12105045,outer-code packet test,40528,202640,3242240,False,False,0,20,0.0390625,0.0,,False,False,False,True,12
+image_B,uniform,packet dropout,0.4,0,12106026,outer-code packet test,40528,202640,3242240,False,False,0,268,0.5234375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,1,12106027,outer-code packet test,40528,202640,3242240,False,False,0,230,0.44921875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,2,12106028,outer-code packet test,40528,202640,3242240,False,False,0,222,0.43359375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,3,12106029,outer-code packet test,40528,202640,3242240,False,False,0,255,0.498046875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,4,12106030,outer-code packet test,40528,202640,3242240,False,False,0,234,0.45703125,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,5,12106031,outer-code packet test,40528,202640,3242240,False,False,0,222,0.43359375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,6,12106032,outer-code packet test,40528,202640,3242240,False,False,0,220,0.4296875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,7,12106033,outer-code packet test,40528,202640,3242240,False,False,0,225,0.439453125,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,8,12106034,outer-code packet test,40528,202640,3242240,False,False,0,236,0.4609375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,9,12106035,outer-code packet test,40528,202640,3242240,False,False,0,224,0.4375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,10,12106036,outer-code packet test,40528,202640,3242240,False,False,0,252,0.4921875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,11,12106037,outer-code packet test,40528,202640,3242240,False,False,0,228,0.4453125,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,12,12106038,outer-code packet test,40528,202640,3242240,False,False,0,258,0.50390625,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,13,12106039,outer-code packet test,40528,202640,3242240,False,False,0,272,0.53125,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,14,12106040,outer-code packet test,40528,202640,3242240,False,False,0,224,0.4375,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,15,12106041,outer-code packet test,40528,202640,3242240,False,False,0,182,0.35546875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,16,12106042,outer-code packet test,40528,202640,3242240,False,False,0,237,0.462890625,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,17,12106043,outer-code packet test,40528,202640,3242240,False,False,0,212,0.4140625,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,18,12106044,outer-code packet test,40528,202640,3242240,False,False,0,240,0.46875,0.0,,False,False,False,True,34
+image_B,uniform,packet dropout,0.4,19,12106045,outer-code packet test,40528,202640,3242240,False,False,0,253,0.494140625,0.0,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0,0,12202026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,1,12202027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,2,12202028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,3,12202029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,4,12202030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,5,12202031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,6,12202032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,7,12202033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,8,12202034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,9,12202035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,10,12202036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,11,12202037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,12,12202038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,13,12202039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,14,12202040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,15,12202041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,16,12202042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,17,12202043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,18,12202044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0,19,12202045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,0,12203026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,1,12203027,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,2,12203028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,3,12203029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,4,12203030,outer-code packet test,40528,202640,3242240,False,False,24,0,0.046875,0.11415198304478194,,False,False,False,True,6
+image_B,uniform,unknown erroneous packet,0.05,5,12203031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,6,12203032,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,7,12203033,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,4
+image_B,uniform,unknown erroneous packet,0.05,8,12203034,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,9,12203035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,10,12203036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,11,12203037,outer-code packet test,40528,202640,3242240,False,False,3,0,0.005859375,0.015934899210524812,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,12,12203038,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,13,12203039,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,14,12203040,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,15,12203041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,16,12203042,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,4
+image_B,uniform,unknown erroneous packet,0.05,17,12203043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.05,18,12203044,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.05,19,12203045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,uniform,unknown erroneous packet,0.1,0,12204026,outer-code packet test,40528,202640,3242240,False,False,62,0,0.12109375,0.20314301744809954,,False,False,False,True,16
+image_B,uniform,unknown erroneous packet,0.1,1,12204027,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.11564243746744288,,False,False,False,True,8
+image_B,uniform,unknown erroneous packet,0.1,2,12204028,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.095743121955911,,False,False,False,True,10
+image_B,uniform,unknown erroneous packet,0.1,3,12204029,outer-code packet test,40528,202640,3242240,False,False,30,0,0.05859375,0.11817637541711597,,False,False,False,True,10
+image_B,uniform,unknown erroneous packet,0.1,4,12204030,outer-code packet test,40528,202640,3242240,False,False,44,0,0.0859375,0.15735390469496244,,False,False,False,True,8
+image_B,uniform,unknown erroneous packet,0.1,5,12204031,outer-code packet test,40528,202640,3242240,False,False,10,0,0.01953125,0.07094467928087747,,False,False,False,True,6
+image_B,uniform,unknown erroneous packet,0.1,6,12204032,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.0962045866857195,,False,False,False,True,8
+image_B,uniform,unknown erroneous packet,0.1,7,12204033,outer-code packet test,40528,202640,3242240,False,False,35,0,0.068359375,0.15074795673595548,,False,False,False,True,18
+image_B,uniform,unknown erroneous packet,0.1,8,12204034,outer-code packet test,40528,202640,3242240,False,False,28,0,0.0546875,0.15971297912720833,,False,False,False,True,12
+image_B,uniform,unknown erroneous packet,0.1,9,12204035,outer-code packet test,40528,202640,3242240,False,False,30,0,0.05859375,0.1393910988293536,,False,False,False,True,8
+image_B,uniform,unknown erroneous packet,0.1,10,12204036,outer-code packet test,40528,202640,3242240,False,False,46,0,0.08984375,0.21389036133427264,,False,False,False,True,16
+image_B,uniform,unknown erroneous packet,0.1,11,12204037,outer-code packet test,40528,202640,3242240,False,False,4,0,0.0078125,0.06282198491661731,,False,False,False,True,10
+image_B,uniform,unknown erroneous packet,0.1,12,12204038,outer-code packet test,40528,202640,3242240,False,False,51,0,0.099609375,0.18513616603679772,,False,False,False,True,16
+image_B,uniform,unknown erroneous packet,0.1,13,12204039,outer-code packet test,40528,202640,3242240,False,False,25,0,0.048828125,0.12443972446102369,,False,False,False,True,6
+image_B,uniform,unknown erroneous packet,0.1,14,12204040,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.10083972825057985,,False,False,False,True,12
+image_B,uniform,unknown erroneous packet,0.1,15,12204041,outer-code packet test,40528,202640,3242240,False,False,3,0,0.005859375,0.05303597779612563,,False,False,False,True,6
+image_B,uniform,unknown erroneous packet,0.1,16,12204042,outer-code packet test,40528,202640,3242240,False,False,47,0,0.091796875,0.18655542286395646,,False,False,False,True,14
+image_B,uniform,unknown erroneous packet,0.1,17,12204043,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.12897588500012172,,False,False,False,True,10
+image_B,uniform,unknown erroneous packet,0.1,18,12204044,outer-code packet test,40528,202640,3242240,False,False,31,0,0.060546875,0.13030443354646246,,False,False,False,True,18
+image_B,uniform,unknown erroneous packet,0.1,19,12204045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,False,False,True,2
+image_B,uniform,unknown erroneous packet,0.2,0,12205026,outer-code packet test,40528,202640,3242240,False,False,87,0,0.169921875,0.23764010732560564,,False,False,False,True,28
+image_B,uniform,unknown erroneous packet,0.2,1,12205027,outer-code packet test,40528,202640,3242240,False,False,101,0,0.197265625,0.22726700100438654,,False,False,False,True,26
+image_B,uniform,unknown erroneous packet,0.2,2,12205028,outer-code packet test,40528,202640,3242240,False,False,135,0,0.263671875,0.2884432067099216,,False,False,False,True,30
+image_B,uniform,unknown erroneous packet,0.2,3,12205029,outer-code packet test,40528,202640,3242240,False,False,105,0,0.205078125,0.2512644390719699,,False,False,False,True,28
+image_B,uniform,unknown erroneous packet,0.2,4,12205030,outer-code packet test,40528,202640,3242240,False,False,136,0,0.265625,0.2928352306079485,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,5,12205031,outer-code packet test,40528,202640,3242240,False,False,110,0,0.21484375,0.2600001393006972,,False,False,False,True,32
+image_B,uniform,unknown erroneous packet,0.2,6,12205032,outer-code packet test,40528,202640,3242240,False,False,80,0,0.15625,0.21147480308689248,,False,False,False,True,28
+image_B,uniform,unknown erroneous packet,0.2,7,12205033,outer-code packet test,40528,202640,3242240,False,False,88,0,0.171875,0.24603974641370185,,False,False,False,True,30
+image_B,uniform,unknown erroneous packet,0.2,8,12205034,outer-code packet test,40528,202640,3242240,False,False,102,0,0.19921875,0.2538287067013481,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,9,12205035,outer-code packet test,40528,202640,3242240,False,False,127,0,0.248046875,0.2672354631574175,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,10,12205036,outer-code packet test,40528,202640,3242240,False,False,134,0,0.26171875,0.28391740962830697,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,11,12205037,outer-code packet test,40528,202640,3242240,False,False,116,0,0.2265625,0.29363738708135023,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,12,12205038,outer-code packet test,40528,202640,3242240,False,False,141,0,0.275390625,0.2808538579381997,,False,False,False,True,30
+image_B,uniform,unknown erroneous packet,0.2,13,12205039,outer-code packet test,40528,202640,3242240,False,False,142,0,0.27734375,0.29749335970366675,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,14,12205040,outer-code packet test,40528,202640,3242240,False,False,119,0,0.232421875,0.28849779475104426,,False,False,False,True,32
+image_B,uniform,unknown erroneous packet,0.2,15,12205041,outer-code packet test,40528,202640,3242240,False,False,139,0,0.271484375,0.28607574688429005,,False,False,False,True,30
+image_B,uniform,unknown erroneous packet,0.2,16,12205042,outer-code packet test,40528,202640,3242240,False,False,119,0,0.232421875,0.2784183373937998,,False,False,False,True,32
+image_B,uniform,unknown erroneous packet,0.2,17,12205043,outer-code packet test,40528,202640,3242240,False,False,120,0,0.234375,0.27580078784872847,,False,False,False,True,32
+image_B,uniform,unknown erroneous packet,0.2,18,12205044,outer-code packet test,40528,202640,3242240,False,False,125,0,0.244140625,0.2800256271341104,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.2,19,12205045,outer-code packet test,40528,202640,3242240,False,False,143,0,0.279296875,0.28885236556145943,,False,False,False,True,30
+image_B,uniform,unknown erroneous packet,0.4,0,12206026,outer-code packet test,40528,202640,3242240,False,False,225,0,0.439453125,0.3773807437450394,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,1,12206027,outer-code packet test,40528,202640,3242240,False,False,214,0,0.41796875,0.3865204644167633,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,2,12206028,outer-code packet test,40528,202640,3242240,False,False,197,0,0.384765625,0.33640461969656005,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,3,12206029,outer-code packet test,40528,202640,3242240,False,False,223,0,0.435546875,0.364412888027363,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,4,12206030,outer-code packet test,40528,202640,3242240,False,False,225,0,0.439453125,0.3913209503308,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,5,12206031,outer-code packet test,40528,202640,3242240,False,False,243,0,0.474609375,0.4019583697227535,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,6,12206032,outer-code packet test,40528,202640,3242240,False,False,245,0,0.478515625,0.4118915724101727,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,7,12206033,outer-code packet test,40528,202640,3242240,False,False,226,0,0.44140625,0.38074564496225344,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,8,12206034,outer-code packet test,40528,202640,3242240,False,False,207,0,0.404296875,0.37601954709620866,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,9,12206035,outer-code packet test,40528,202640,3242240,False,False,226,0,0.44140625,0.3922177938442009,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,10,12206036,outer-code packet test,40528,202640,3242240,False,False,252,0,0.4921875,0.38675974083110043,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,11,12206037,outer-code packet test,40528,202640,3242240,False,False,251,0,0.490234375,0.41376065218803465,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,12,12206038,outer-code packet test,40528,202640,3242240,False,False,234,0,0.45703125,0.3890255266923256,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,13,12206039,outer-code packet test,40528,202640,3242240,False,False,238,0,0.46484375,0.3909032298370042,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,14,12206040,outer-code packet test,40528,202640,3242240,False,False,205,0,0.400390625,0.35411247417855624,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,15,12206041,outer-code packet test,40528,202640,3242240,False,False,215,0,0.419921875,0.37132606525426326,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,16,12206042,outer-code packet test,40528,202640,3242240,False,False,268,0,0.5234375,0.42281927591544816,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,17,12206043,outer-code packet test,40528,202640,3242240,False,False,222,0,0.43359375,0.39862686332619496,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,18,12206044,outer-code packet test,40528,202640,3242240,False,False,220,0,0.4296875,0.3994062896697612,,False,False,False,True,34
+image_B,uniform,unknown erroneous packet,0.4,19,12206045,outer-code packet test,40528,202640,3242240,False,False,228,0,0.4453125,0.38058276132953583,,False,False,False,True,34
+image_B,unequal,packet dropout,0,0,12102026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,1,12102027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,2,12102028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,3,12102029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,4,12102030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,5,12102031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,6,12102032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,7,12102033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,8,12102034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,9,12102035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,10,12102036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,11,12102037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,12,12102038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,13,12102039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,14,12102040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,15,12102041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,16,12102042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,17,12102043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,18,12102044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0,19,12102045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0.05,0,12103026,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,1,12103027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0.05,2,12103028,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,3,12103029,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,4,12103030,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,5,12103031,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,6,12103032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0.05,7,12103033,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,8,12103034,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,9,12103035,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,10,12103036,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,11,12103037,outer-code packet test,40528,202640,3242240,True,False,0,0,0.0,0.0,,False,False,False,True,2
+image_B,unequal,packet dropout,0.05,12,12103038,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,13,12103039,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,14,12103040,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,15,12103041,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,16,12103042,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,17,12103043,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,18,12103044,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.05,19,12103045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,packet dropout,0.1,0,12104026,outer-code packet test,40528,202640,3242240,False,False,0,8,0.015625,0.0,,False,False,False,True,2
+image_B,unequal,packet dropout,0.1,1,12104027,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,2,12104028,outer-code packet test,40528,202640,3242240,False,False,0,96,0.1875,0.0,,False,False,False,True,2
+image_B,unequal,packet dropout,0.1,3,12104029,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,4,12104030,outer-code packet test,40528,202640,3242240,False,False,0,40,0.078125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,5,12104031,outer-code packet test,40528,202640,3242240,False,False,0,80,0.15625,0.0,,False,False,False,True,2
+image_B,unequal,packet dropout,0.1,6,12104032,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,7,12104033,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,8,12104034,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,9,12104035,outer-code packet test,40528,202640,3242240,False,False,0,104,0.203125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,10,12104036,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,11,12104037,outer-code packet test,40528,202640,3242240,False,False,0,64,0.125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,12,12104038,outer-code packet test,40528,202640,3242240,False,False,0,56,0.109375,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,13,12104039,outer-code packet test,40528,202640,3242240,False,False,0,32,0.0625,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,14,12104040,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,15,12104041,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,16,12104042,outer-code packet test,40528,202640,3242240,False,False,0,48,0.09375,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,17,12104043,outer-code packet test,40528,202640,3242240,False,False,0,16,0.03125,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,18,12104044,outer-code packet test,40528,202640,3242240,False,False,0,96,0.1875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.1,19,12104045,outer-code packet test,40528,202640,3242240,False,False,0,24,0.046875,0.0,,True,False,False,True,0
+image_B,unequal,packet dropout,0.2,0,12105026,outer-code packet test,40528,202640,3242240,False,False,0,168,0.328125,0.0,,False,False,False,True,10
+image_B,unequal,packet dropout,0.2,1,12105027,outer-code packet test,40528,202640,3242240,False,False,0,208,0.40625,0.0,,False,False,False,True,16
+image_B,unequal,packet dropout,0.2,2,12105028,outer-code packet test,40528,202640,3242240,False,False,0,128,0.25,0.0,,False,False,False,True,10
+image_B,unequal,packet dropout,0.2,3,12105029,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,4,12105030,outer-code packet test,40528,202640,3242240,False,False,0,80,0.15625,0.0,,False,False,False,True,6
+image_B,unequal,packet dropout,0.2,5,12105031,outer-code packet test,40528,202640,3242240,False,False,0,128,0.25,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,6,12105032,outer-code packet test,40528,202640,3242240,False,False,0,168,0.328125,0.0,,False,False,False,True,12
+image_B,unequal,packet dropout,0.2,7,12105033,outer-code packet test,40528,202640,3242240,False,False,0,88,0.171875,0.0,,False,False,False,True,12
+image_B,unequal,packet dropout,0.2,8,12105034,outer-code packet test,40528,202640,3242240,False,False,0,152,0.296875,0.0,,False,False,False,True,10
+image_B,unequal,packet dropout,0.2,9,12105035,outer-code packet test,40528,202640,3242240,False,False,0,152,0.296875,0.0,,False,False,False,True,6
+image_B,unequal,packet dropout,0.2,10,12105036,outer-code packet test,40528,202640,3242240,False,False,0,176,0.34375,0.0,,False,False,False,True,12
+image_B,unequal,packet dropout,0.2,11,12105037,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,14
+image_B,unequal,packet dropout,0.2,12,12105038,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,13,12105039,outer-code packet test,40528,202640,3242240,False,False,0,232,0.453125,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,14,12105040,outer-code packet test,40528,202640,3242240,False,False,0,72,0.140625,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,15,12105041,outer-code packet test,40528,202640,3242240,False,False,0,184,0.359375,0.0,,False,False,False,True,16
+image_B,unequal,packet dropout,0.2,16,12105042,outer-code packet test,40528,202640,3242240,False,False,0,136,0.265625,0.0,,False,False,False,True,12
+image_B,unequal,packet dropout,0.2,17,12105043,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,10
+image_B,unequal,packet dropout,0.2,18,12105044,outer-code packet test,40528,202640,3242240,False,False,0,192,0.375,0.0,,False,False,False,True,8
+image_B,unequal,packet dropout,0.2,19,12105045,outer-code packet test,40528,202640,3242240,False,False,0,144,0.28125,0.0,,False,False,False,True,12
+image_B,unequal,packet dropout,0.4,0,12106026,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,1,12106027,outer-code packet test,40528,202640,3242240,False,False,0,400,0.78125,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,2,12106028,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,3,12106029,outer-code packet test,40528,202640,3242240,False,False,0,424,0.828125,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,4,12106030,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,5,12106031,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,6,12106032,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,7,12106033,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,8,12106034,outer-code packet test,40528,202640,3242240,False,False,0,392,0.765625,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,9,12106035,outer-code packet test,40528,202640,3242240,False,False,0,328,0.640625,0.0,,False,False,False,True,26
+image_B,unequal,packet dropout,0.4,10,12106036,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,11,12106037,outer-code packet test,40528,202640,3242240,False,False,0,376,0.734375,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,12,12106038,outer-code packet test,40528,202640,3242240,False,False,0,424,0.828125,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,13,12106039,outer-code packet test,40528,202640,3242240,False,False,0,408,0.796875,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,14,12106040,outer-code packet test,40528,202640,3242240,False,False,0,368,0.71875,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,15,12106041,outer-code packet test,40528,202640,3242240,False,False,0,328,0.640625,0.0,,False,False,False,True,26
+image_B,unequal,packet dropout,0.4,16,12106042,outer-code packet test,40528,202640,3242240,False,False,0,368,0.71875,0.0,,False,False,False,True,30
+image_B,unequal,packet dropout,0.4,17,12106043,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,18,12106044,outer-code packet test,40528,202640,3242240,False,False,0,352,0.6875,0.0,,False,False,False,True,28
+image_B,unequal,packet dropout,0.4,19,12106045,outer-code packet test,40528,202640,3242240,False,False,0,456,0.890625,0.0,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0,0,12202026,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,1,12202027,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,2,12202028,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,3,12202029,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,4,12202030,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,5,12202031,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,6,12202032,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,7,12202033,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,8,12202034,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,9,12202035,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,10,12202036,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,11,12202037,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,12,12202038,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,13,12202039,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,14,12202040,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,15,12202041,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,16,12202042,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,17,12202043,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,18,12202044,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0,19,12202045,outer-code packet test,40528,202640,3242240,True,True,0,0,0.0,0.0,0.0,True,True,False,False,0
+image_B,unequal,unknown erroneous packet,0.05,0,12203026,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.012068973274401228,0.016721954975371284,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,1,12203027,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.010592339535745347,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,2,12203028,outer-code packet test,40528,202640,3242240,False,False,5,0,0.009765625,0.007936507936507936,0.010996289854867277,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,3,12203029,outer-code packet test,40528,202640,3242240,False,False,18,0,0.03515625,0.011135885079684348,0.016379489585521136,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,4,12203030,outer-code packet test,40528,202640,3242240,False,False,36,0,0.0703125,0.014714679537888218,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,5,12203031,outer-code packet test,40528,202640,3242240,False,False,17,0,0.033203125,0.010499013139145199,0.014546724150180679,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,6,12203032,outer-code packet test,40528,202640,3242240,False,False,26,0,0.05078125,0.013457003934772357,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,7,12203033,outer-code packet test,40528,202640,3242240,False,False,5,0,0.009765625,0.005784674498854465,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.05,8,12203034,outer-code packet test,40528,202640,3242240,False,False,7,0,0.013671875,0.006429306248420495,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,9,12203035,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.013086216228445356,0.018131378170683107,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,10,12203036,outer-code packet test,40528,202640,3242240,False,False,16,0,0.03125,0.008983517002120453,0.01244695496580205,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,11,12203037,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.013457003934772355,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,12,12203038,outer-code packet test,40528,202640,3242240,False,False,20,0,0.0390625,0.01278184397492572,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,13,12203039,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.012311184172609976,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,14,12203040,outer-code packet test,40528,202640,3242240,False,False,33,0,0.064453125,0.06358500142445263,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.05,15,12203041,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.01206897327440123,0.01672195497537128,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,16,12203042,outer-code packet test,40528,202640,3242240,False,False,6,0,0.01171875,0.007423923386456232,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.05,17,12203043,outer-code packet test,40528,202640,3242240,False,False,12,0,0.0234375,0.009720197391996737,0.013467649604084059,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.05,18,12203044,outer-code packet test,40528,202640,3242240,False,False,21,0,0.041015625,0.01423878977619774,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.05,19,12203045,outer-code packet test,40528,202640,3242240,False,False,13,0,0.025390625,0.009306380475840138,0.012894292808713997,True,False,False,True,0
+image_B,unequal,unknown erroneous packet,0.1,0,12204026,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.01122391716169123,,False,False,False,True,10
+image_B,unequal,unknown erroneous packet,0.1,1,12204027,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.01746708021989981,,False,False,False,True,6
+image_B,unequal,unknown erroneous packet,0.1,2,12204028,outer-code packet test,40528,202640,3242240,False,False,45,0,0.087890625,0.06925995903058357,,False,False,False,True,10
+image_B,unequal,unknown erroneous packet,0.1,3,12204029,outer-code packet test,40528,202640,3242240,False,False,19,0,0.037109375,0.011821800880766849,,False,False,False,True,8
+image_B,unequal,unknown erroneous packet,0.1,4,12204030,outer-code packet test,40528,202640,3242240,False,False,78,0,0.15234375,0.058371788426014475,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.1,5,12204031,outer-code packet test,40528,202640,3242240,False,False,34,0,0.06640625,0.016777315997309288,,False,False,False,True,6
+image_B,unequal,unknown erroneous packet,0.1,6,12204032,outer-code packet test,40528,202640,3242240,False,False,51,0,0.099609375,0.020856940517488726,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.1,7,12204033,outer-code packet test,40528,202640,3242240,False,False,54,0,0.10546875,0.018346470246931475,,False,False,False,True,14
+image_B,unequal,unknown erroneous packet,0.1,8,12204034,outer-code packet test,40528,202640,3242240,False,False,41,0,0.080078125,0.05266352952375792,,False,False,False,True,12
+image_B,unequal,unknown erroneous packet,0.1,9,12204035,outer-code packet test,40528,202640,3242240,False,False,70,0,0.13671875,0.07220968406776922,,False,False,False,True,6
+image_B,unequal,unknown erroneous packet,0.1,10,12204036,outer-code packet test,40528,202640,3242240,False,False,132,0,0.2578125,0.21220421294577899,,False,False,False,True,14
+image_B,unequal,unknown erroneous packet,0.1,11,12204037,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.016894232505879365,,False,False,False,True,10
+image_B,unequal,unknown erroneous packet,0.1,12,12204038,outer-code packet test,40528,202640,3242240,False,False,70,0,0.13671875,0.0588252661919587,,False,False,False,True,10
+image_B,unequal,unknown erroneous packet,0.1,13,12204039,outer-code packet test,40528,202640,3242240,False,False,39,0,0.076171875,0.016301266592415656,,False,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.1,14,12204040,outer-code packet test,40528,202640,3242240,False,False,62,0,0.12109375,0.056799425429760464,,False,False,False,True,10
+image_B,unequal,unknown erroneous packet,0.1,15,12204041,outer-code packet test,40528,202640,3242240,False,False,45,0,0.087890625,0.01892736510747908,,False,False,False,True,4
+image_B,unequal,unknown erroneous packet,0.1,16,12204042,outer-code packet test,40528,202640,3242240,False,False,103,0,0.201171875,0.20325441760671276,,False,False,False,True,14
+image_B,unequal,unknown erroneous packet,0.1,17,12204043,outer-code packet test,40528,202640,3242240,False,False,61,0,0.119140625,0.07275282586229802,,False,False,False,True,8
+image_B,unequal,unknown erroneous packet,0.1,18,12204044,outer-code packet test,40528,202640,3242240,False,False,34,0,0.06640625,0.01774657124999833,,False,False,False,True,14
+image_B,unequal,unknown erroneous packet,0.1,19,12204045,outer-code packet test,40528,202640,3242240,False,False,25,0,0.048828125,0.013817845513079482,0.01914507433838151,True,False,False,True,2
+image_B,unequal,unknown erroneous packet,0.2,0,12205026,outer-code packet test,40528,202640,3242240,False,False,155,0,0.302734375,0.2262078801435809,,False,False,False,True,24
+image_B,unequal,unknown erroneous packet,0.2,1,12205027,outer-code packet test,40528,202640,3242240,False,False,154,0,0.30078125,0.18772819321452175,,False,False,False,True,20
+image_B,unequal,unknown erroneous packet,0.2,2,12205028,outer-code packet test,40528,202640,3242240,False,False,235,0,0.458984375,0.3915145609342421,,False,False,False,True,26
+image_B,unequal,unknown erroneous packet,0.2,3,12205029,outer-code packet test,40528,202640,3242240,False,False,141,0,0.275390625,0.22354252761568494,,False,False,False,True,24
+image_B,unequal,unknown erroneous packet,0.2,4,12205030,outer-code packet test,40528,202640,3242240,False,False,222,0,0.43359375,0.33353994919234337,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,5,12205031,outer-code packet test,40528,202640,3242240,False,False,227,0,0.443359375,0.3261339888524458,,False,False,False,True,28
+image_B,unequal,unknown erroneous packet,0.2,6,12205032,outer-code packet test,40528,202640,3242240,False,False,103,0,0.201171875,0.18901348098469892,,False,False,False,True,24
+image_B,unequal,unknown erroneous packet,0.2,7,12205033,outer-code packet test,40528,202640,3242240,False,False,93,0,0.181640625,0.07322477018748386,,False,False,False,True,22
+image_B,unequal,unknown erroneous packet,0.2,8,12205034,outer-code packet test,40528,202640,3242240,False,False,194,0,0.37890625,0.28735611821349677,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,9,12205035,outer-code packet test,40528,202640,3242240,False,False,188,0,0.3671875,0.3064015036782395,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,10,12205036,outer-code packet test,40528,202640,3242240,False,False,235,0,0.458984375,0.30755888316918456,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,11,12205037,outer-code packet test,40528,202640,3242240,False,False,189,0,0.369140625,0.28836813128069816,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,12,12205038,outer-code packet test,40528,202640,3242240,False,False,204,0,0.3984375,0.2747711432336792,,False,False,False,True,26
+image_B,unequal,unknown erroneous packet,0.2,13,12205039,outer-code packet test,40528,202640,3242240,False,False,239,0,0.466796875,0.35331669604578764,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,14,12205040,outer-code packet test,40528,202640,3242240,False,False,221,0,0.431640625,0.28199393855311927,,False,False,False,True,28
+image_B,unequal,unknown erroneous packet,0.2,15,12205041,outer-code packet test,40528,202640,3242240,False,False,201,0,0.392578125,0.31927494763834563,,False,False,False,True,26
+image_B,unequal,unknown erroneous packet,0.2,16,12205042,outer-code packet test,40528,202640,3242240,False,False,211,0,0.412109375,0.274957336528889,,False,False,False,True,28
+image_B,unequal,unknown erroneous packet,0.2,17,12205043,outer-code packet test,40528,202640,3242240,False,False,172,0,0.3359375,0.296107271526629,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.2,18,12205044,outer-code packet test,40528,202640,3242240,False,False,181,0,0.353515625,0.24327613897256517,,False,False,False,True,28
+image_B,unequal,unknown erroneous packet,0.2,19,12205045,outer-code packet test,40528,202640,3242240,False,False,262,0,0.51171875,0.3339675325524829,,False,False,False,True,26
+image_B,unequal,unknown erroneous packet,0.4,0,12206026,outer-code packet test,40528,202640,3242240,False,False,334,0,0.65234375,0.39660708280426793,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,1,12206027,outer-code packet test,40528,202640,3242240,False,False,348,0,0.6796875,0.42652500467971627,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,2,12206028,outer-code packet test,40528,202640,3242240,False,False,290,0,0.56640625,0.36659665723447343,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,3,12206029,outer-code packet test,40528,202640,3242240,False,False,353,0,0.689453125,0.41439288889207965,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,4,12206030,outer-code packet test,40528,202640,3242240,False,False,369,0,0.720703125,0.3590255710533638,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,5,12206031,outer-code packet test,40528,202640,3242240,False,False,368,0,0.71875,0.42058812258390577,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,6,12206032,outer-code packet test,40528,202640,3242240,False,False,354,0,0.69140625,0.3994013613745902,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,7,12206033,outer-code packet test,40528,202640,3242240,False,False,337,0,0.658203125,0.38574816952222274,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,8,12206034,outer-code packet test,40528,202640,3242240,False,False,312,0,0.609375,0.37169429851627894,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,9,12206035,outer-code packet test,40528,202640,3242240,False,False,332,0,0.6484375,0.42774851182394413,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,10,12206036,outer-code packet test,40528,202640,3242240,False,False,349,0,0.681640625,0.3958644117966212,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,11,12206037,outer-code packet test,40528,202640,3242240,False,False,346,0,0.67578125,0.4067436120717807,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,12,12206038,outer-code packet test,40528,202640,3242240,False,False,359,0,0.701171875,0.3946792161660776,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,13,12206039,outer-code packet test,40528,202640,3242240,False,False,350,0,0.68359375,0.4027948819575752,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,14,12206040,outer-code packet test,40528,202640,3242240,False,False,284,0,0.5546875,0.4065669369553378,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,15,12206041,outer-code packet test,40528,202640,3242240,False,False,357,0,0.697265625,0.4271959482262232,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,16,12206042,outer-code packet test,40528,202640,3242240,False,False,359,0,0.701171875,0.40580368966127695,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,17,12206043,outer-code packet test,40528,202640,3242240,False,False,335,0,0.654296875,0.39801903811113937,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,18,12206044,outer-code packet test,40528,202640,3242240,False,False,345,0,0.673828125,0.4136417028079244,,False,False,False,True,30
+image_B,unequal,unknown erroneous packet,0.4,19,12206045,outer-code packet test,40528,202640,3242240,False,False,355,0,0.693359375,0.3695912534590191,,False,False,False,True,30

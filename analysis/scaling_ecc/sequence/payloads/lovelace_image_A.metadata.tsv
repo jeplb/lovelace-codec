@@ -1,0 +1,19 @@
+key	type	value
+	dict	10
+component_bits	int	6
+crop_start	list	2
+crop_start.0	int	8
+crop_start.1	int	8
+image_label	str	A
+image_shape	list	2
+image_shape.0	int	32
+image_shape.1	int	32
+kind	str	six-bit complex Fourier component labels
+mean	float	0.19604003906250006
+native_header_hex	str	4c56494d01202010100600013fc917d70a3d70a640082b7e831d93c6000001802652f1c871758993708d0875f3adf5e4590577651190a7594ea2d2cb3686fc88
+ordering	str	row column real imaginary
+scale	float	3.0212373965646036
+shape	list	3
+shape.0	int	16
+shape.1	int	16
+shape.2	int	2

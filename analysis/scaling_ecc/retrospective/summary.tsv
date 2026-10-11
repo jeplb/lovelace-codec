@@ -1,0 +1,13 @@
+key	type	value
+	dict	5
+native_streams	int	6
+original_lovelace_checksum_passes	int	0
+no_oracle_erasure	bool	true
+computational_replay_realizations	int	600
+max_requirement_by_population	dict	6
+max_requirement_by_population.image A control	int	10
+max_requirement_by_population.image A position	int	7
+max_requirement_by_population.image A position_weighted	int	6
+max_requirement_by_population.image B control	int	12
+max_requirement_by_population.image B position	int	11
+max_requirement_by_population.image B position_weighted	int	5

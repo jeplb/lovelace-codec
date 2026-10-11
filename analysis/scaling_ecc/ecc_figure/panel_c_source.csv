@@ -1,0 +1,17 @@
+codec,payload,arm,r,budget,condition,level,trials,successes,incorrect_accepted,exact_payloads,metadata_recovered,exact_stripes,total_stripes,wrong_bits,declared_failures,missing_bytes,wrong_bytes,designed_nt,sequenced_nt,requested_reads,generated_reads,parity_nt,recovery,ci_low,ci_high
+lovelace,image_A,unprotected,0,per_strand,dropout,0.2,20,0,0,0,0,0,260,0,20,1486,0,123968.0,1602763.2,6656.0,5378.4,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_A,RS,8,per_strand,dropout,0.2,20,0,0,0,0,162,260,0,20,828,0,154960.0,1996123.2,8320.0,6698.4,30992.0,0.0,0.0,0.1684334709830853
+lovelace,image_A,RS,24,per_strand,dropout,0.2,20,20,0,20,20,260,260,0,0,0,0,216944.0,2778790.4,11648.0,9324.8,92976.0,1.0,0.8315665290169146,1.0
+lovelace,image_A,repetition,24,per_strand,dropout,0.2,20,0,0,0,0,18,260,0,20,602,0,216944.0,2778790.4,11648.0,9324.8,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_A,unprotected,0,total,dropout,0.2,20,0,0,0,0,0,260,0,20,1507,0,123968.0,1590128.0,6656.0,5336.0,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_A,RS,8,total,dropout,0.2,20,0,0,0,0,155,260,0,20,928,0,154960.0,1582022.4,6656.0,5308.8,30992.0,0.0,0.0,0.1684334709830853
+lovelace,image_A,RS,24,total,dropout,0.2,20,20,0,20,20,260,260,0,0,0,0,216944.0,1582841.9,6656.0,5311.55,92976.0,1.0,0.8315665290169146,1.0
+lovelace,image_A,repetition,24,total,dropout,0.2,20,0,0,0,0,14,260,0,20,670,0,216944.0,1582841.9,6656.0,5311.55,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,unprotected,0,per_strand,dropout,0.2,20,0,0,0,0,0,260,0,20,1512,0,123968.0,1584883.2,6656.0,5318.4,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,RS,8,per_strand,dropout,0.2,20,0,0,1,1,155,260,0,20,845,0,154960.0,1984441.6,8320.0,6659.2,30992.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,RS,24,per_strand,dropout,0.2,20,20,0,20,20,260,260,0,0,0,0,216944.0,2780697.6,11648.0,9331.2,92976.0,1.0,0.8315665290169146,1.0
+lovelace,image_B,repetition,24,per_strand,dropout,0.2,20,0,0,0,0,19,260,0,20,616,0,216944.0,2780697.6,11648.0,9331.2,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,unprotected,0,total,dropout,0.2,20,0,0,0,0,0,260,0,20,1566,0,123968.0,1583929.6,6656.0,5315.2,0.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,RS,8,total,dropout,0.2,20,0,0,0,0,151,260,0,20,1008,0,154960.0,1583572.0,6656.0,5314.0,30992.0,0.0,0.0,0.1684334709830853
+lovelace,image_B,RS,24,total,dropout,0.2,20,20,0,20,20,260,260,0,0,0,0,216944.0,1587505.6,6656.0,5327.2,92976.0,1.0,0.8315665290169146,1.0
+lovelace,image_B,repetition,24,total,dropout,0.2,20,0,0,0,0,12,260,0,20,635,0,216944.0,1587505.6,6656.0,5327.2,0.0,0.0,0.0,0.1684334709830853

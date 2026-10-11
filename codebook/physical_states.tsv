@@ -1,0 +1,22 @@
+key	type	value
+	dict	4
+criterion	str	maximin negative-log Bhattacharyya coefficient across all four saved models
+digit_order	str	lexicographic
+selected_score	float	0.18289776173604713
+states	list	4
+states.0	list	3
+states.0.0	int	3
+states.0.1	int	7
+states.0.2	int	10
+states.1	list	3
+states.1.0	int	3
+states.1.1	int	10
+states.1.2	int	7
+states.2	list	3
+states.2.0	int	7
+states.2.1	int	3
+states.2.2	int	10
+states.3	list	3
+states.3.0	int	7
+states.3.1	int	10
+states.3.2	int	3

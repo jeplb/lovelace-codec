@@ -1,0 +1,5 @@
+image	arm	error_free_sequence_exact	error_free_outer_exact	sequence_count
+image_A	uniform	true	true	680
+image_A	unequal	true	true	680
+image_B	uniform	true	true	680
+image_B	unequal	true	true	680

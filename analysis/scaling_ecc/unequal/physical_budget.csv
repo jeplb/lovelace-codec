@@ -1,0 +1,5 @@
+image,arm,stored_payload_bytes,protected_metadata_bytes,data_packets,parity_packets,data_padding_bytes,designed_nucleotides,data_nucleotides,added_parity_nucleotides,address_nucleotides,total_requested_reads,requested_sequenced_nucleotides,budget_mismatch_nt
+image_A,uniform,384,661,544,136,43,202640,162112,40528,54400,10880,3242240,0
+image_A,unequal,384,661,544,136,43,202640,162112,40528,54400,10880,3242240,0
+image_B,uniform,384,661,544,136,43,202640,162112,40528,54400,10880,3242240,0
+image_B,unequal,384,661,544,136,43,202640,162112,40528,54400,10880,3242240,0
